@@ -1,5 +1,7 @@
 # HTML & CSS Resources
 
+## Table of Contents:
+
 - [[#HTML:|HTML:]]
 - [[#CSS & Design:|CSS & Design:]]
 	- [[#CSS & Design:#Boilerplates:|Boilerplates:]]
@@ -13,10 +15,20 @@
 	- [[#CSS & Design:#Design Inspo:|Design Inspo:]]
 
 
+-------------------
+
 ## HTML:
+
+[HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+[HTML5 Cheatsheet](https://www.wpkube.com/html5-cheat-sheet/)
 
 
 ## CSS & Design:
+
+[CSS Tricks](https://css-tricks.com/)
+
+-------------------
 
 ### Boilerplates:
 
@@ -41,6 +53,10 @@
 
 [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+[Flexbox Froggy](https://flexboxfroggy.com/)
+
+[CSS Grid Garden](https://cssgridgarden.com/)
+
 [UI Design Patterns ](https://ui-patterns.com/patterns)
 
 
@@ -55,13 +71,16 @@
 
 -------------------
 
-### Typography:
+### Box shadows:
 
-[Archtype](https://archetypeapp.com/#)
-
-[Typescale](https://typescale.com/)
+[Ready made box shadows](https://getcssscan.com/css-box-shadow-examples)
 
 
+-------------------
+
+### Audio Elements
+
+[How to style audio elements](https://blog.shahednasser.com/how-to-style-an-audio-element/)
 
 -------------------
 
@@ -72,12 +91,14 @@
 [Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-8fb4ff-ebf1ff-ff8f94)
 
 
-
 -------------------
 
-### Box shadows:
 
-[Ready made box shadows](https://getcssscan.com/css-box-shadow-examples)
+### Typography:
+
+[Archtype](https://archetypeapp.com/#)
+
+[Typescale](https://typescale.com/)
 
 
 -------------------
@@ -98,3 +119,8 @@
 [Awwwards](https://www.awwwards.com/)
 
 
+
+
+### Fun things:
+
+[Codepen CSS Grid: Periodic Table](https://codepen.io/oliviale/pen/ZmvPPd)
