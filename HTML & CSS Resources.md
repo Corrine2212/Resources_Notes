@@ -1,11 +1,13 @@
 # HTML & CSS Resources
 
-### HTML:
+/ table
+
+## HTML:
 
 
-### CSS & Design:
+## CSS & Design:
 
-**Boilerplates:**
+### Boilerplates:
 
 [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 
@@ -13,7 +15,7 @@
 
 -------------------
 
-**Gradients:**
+### Gradients:
 
 [SVG Animation Background](https://codepen.io/thanks2music/pen/VmJjaG)
 
@@ -22,7 +24,7 @@
 
 -------------------
 
-**Tools & Guides:**
+### Tools & Guides:
 
 [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#section-display)
 
@@ -33,7 +35,7 @@
 
 -------------------
 
-**Buttons:**
+### Buttons:
 
 [Ready made buttons](https://getcssscan.com/css-buttons-examples)
 
@@ -42,7 +44,7 @@
 
 -------------------
 
-**Typography:**
+### Typography:
 
 [Archtype](https://archetypeapp.com/#)
 
@@ -66,6 +68,7 @@
 
 [Ready made box shadows](https://getcssscan.com/css-box-shadow-examples)
 
+
 -------------------
 
 
@@ -76,6 +79,11 @@
 [Frontend Mentor](https://www.frontendmentor.io/)
 
 
+-------------------
+
+
 Design Inspo:
 
-[Awards](https://www.awwwards.com/)
+[Awwwards](https://www.awwwards.com/)
+
+
