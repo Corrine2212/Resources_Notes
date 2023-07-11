@@ -17,7 +17,13 @@
 [SVG Animation Background](https://codepen.io/thanks2music/pen/VmJjaG)
 
 
-Tools:
+**Tools:**
 
-[]()
+[Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#section-display)
+
+
+**Buttons:**
+[Ready made buttons](https://getcssscan.com/css-buttons-examples)
+
+
 
