@@ -1,6 +1,17 @@
 # HTML & CSS Resources
 
-/ table
+- [[#HTML:|HTML:]]
+- [[#CSS & Design:|CSS & Design:]]
+	- [[#CSS & Design:#Boilerplates:|Boilerplates:]]
+	- [[#CSS & Design:#Gradients:|Gradients:]]
+	- [[#CSS & Design:#Tools & Guides:|Tools & Guides:]]
+	- [[#CSS & Design:#Buttons:|Buttons:]]
+	- [[#CSS & Design:#Typography:|Typography:]]
+	- [[#CSS & Design:#Color-palettes:|Color-palettes:]]
+	- [[#CSS & Design:#Box shadows:|Box shadows:]]
+	- [[#CSS & Design:#Frontend Practice:|Frontend Practice:]]
+	- [[#CSS & Design:#Design Inspo:|Design Inspo:]]
+
 
 ## HTML:
 
@@ -54,7 +65,7 @@
 
 -------------------
 
-**Color-palettes:**
+### Color-palettes:
 
 [Paletton](https://paletton.com/#uid=4001p0k6J957ggZ73dr8S6jcu5P)
 
@@ -64,7 +75,7 @@
 
 -------------------
 
-**Box shadows:**
+### Box shadows:
 
 [Ready made box shadows](https://getcssscan.com/css-box-shadow-examples)
 
@@ -72,7 +83,7 @@
 -------------------
 
 
-**Frontend Practice:**
+### Frontend Practice:
 
 [Frontend Practice](https://www.frontendpractice.com/)
 
@@ -82,7 +93,7 @@
 -------------------
 
 
-Design Inspo:
+### Design Inspo:
 
 [Awwwards](https://www.awwwards.com/)
 
