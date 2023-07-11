@@ -44,6 +44,8 @@
 
 [Archtype](https://archetypeapp.com/#)
 
+[Typescale](https://typescale.com/)
+
 -------------------
 
 **Color-palettes:**
