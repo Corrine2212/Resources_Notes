@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f41d1b607e26e487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1e92c32ac550360f",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Misc..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Misc..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Misc..md"
               }
             }
           }
@@ -172,14 +185,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3d8bd771e27bdfcf",
+  "active": "f41d1b607e26e487",
   "lastOpenFiles": [
-    "VS Code Shortcuts.md",
     "README.md",
+    "Markdown Syntax.md",
+    "Misc..md",
+    "VS Code Shortcuts.md",
     "IntelliJ Shortcuts.md",
     "HTML & CSS Resources.md",
     "Instructions for setting up React JS project.md",
-    "Misc..md",
     "Github Resources.md",
     "2023-07-11.md",
     "Untitled 1.canvas",
