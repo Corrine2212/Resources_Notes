@@ -1,9 +1,9 @@
-# HTML & CSS
+# HTML & CSS Resources
 
-### HTML
+### HTML:
 
 
-### CSS & Design
+### CSS & Design:
 
 **Boilerplates:**
 

@@ -10,4 +10,5 @@ A place for useful resources and learning notes.
 ### Project setup
 
 [[Instructions for setting up React JS project]]
+[Setting up React JS App](https://github.com/Corrine2212/Resources_Notes/blob/main/Instructions%20for%20setting%20up%20React%20JS%20project.md)
 

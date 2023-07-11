@@ -1,3 +1,5 @@
+# Instructions for setting up React JS Project
+
 # Setting up the client:
 
 ## Step 1: Planning

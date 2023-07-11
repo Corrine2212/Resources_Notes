@@ -1,4 +1,4 @@
-# Github
+# Github Resources
 
 [Git Explorer](https://gitexplorer.com/)
 
@@ -8,6 +8,7 @@
 
 [Ross's Git Guide](https://github.com/GregorRoss/ELGA/blob/main/git-guide.md)
 
+---------------
 
 **Github Readme**:
 
