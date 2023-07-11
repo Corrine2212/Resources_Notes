@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntelliJ Shortcuts.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IntelliJ Shortcuts.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IntelliJ Shortcuts.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IntelliJ Shortcuts.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "3d8bd771e27bdfcf",
   "lastOpenFiles": [
+    "IntelliJ Shortcuts.md",
     "HTML & CSS Resources.md",
     "Instructions for setting up React JS project.md",
-    "IntelliJ Shortcuts.md",
     "Misc..md",
     "Github Resources.md",
     "2023-07-11.md",

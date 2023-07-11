@@ -1,18 +1,17 @@
 [Quick Editor Shortcuts](https://tomgregory.com/edit-code-faster-in-intellij-idea/)
 
-| Commands | Keys | ...|  
-| -------- | -------- | -------- |  
-| Generate Constructor and getter & setters | Item 2 | Item 3 |  
-| copy line down | Item 5 | Item 6 |
-| move line up or down| Item 5 | Item 6 |
-| open and search classes | Item 5 | Item 6 |
-| open and search files | Item 5 | Item 6 |
-| switch to source of method | Item 5 | Item 6 |
-| cycle through tabs | Item 5 | Item 6 |
-| reverse cycle through tabs| Item 5 | Item 6 |
-| switch to project side bar. Press again to hide bar | Item 5 | Item 6 |
-| while on folder - creates new class etc.| Item 5 | Item 6 |
-| close all tabs| Item 5 | Item 6 |
-| cycle through navigartion top bar| Item 5 | Item 6 |
 
-
+|Operation|Commands||
+|---|---|---|
+|Generate Constructor and getter & setters|Control + Enter||
+|copy line down|command + D||
+|move line up or down|shift + opt + up or down||
+|open and search classes|command + o||
+|open and search files|command + shift + o||
+|switch to source of method|command + b||
+|cycle through tabs|control + tab||
+|reverse cycle through tabs|control + shift + tab||
+|switch to project side bar. Press again to hide bar|command + 1|esc (goes back to terminal)|
+|while on folder - creates new class etc.|command + n||
+|close all tabs|control + q (custom)||
+|cycle through navigation top bar|command + up||
