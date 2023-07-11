@@ -1,4 +1,5 @@
 
+
 ### HTML
 
 
@@ -42,6 +43,15 @@
 **Typography:**
 
 [Archtype](https://archetypeapp.com/#)
+
+-------------------
+
+**Color-palettes:**
+
+[Paletton](https://paletton.com/#uid=4001p0k6J957ggZ73dr8S6jcu5P)
+
+[Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-8fb4ff-ebf1ff-ff8f94)
+
 
 
 -------------------
