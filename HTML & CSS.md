@@ -21,9 +21,12 @@
 
 -------------------
 
-**Tools:**
+**Tools & Guides:**
 
 [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#section-display)
+
+[Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 
 -------------------
 
@@ -31,7 +34,8 @@
 
 [Ready made buttons](https://getcssscan.com/css-buttons-examples)
 
-[Button]()
+[Button Shadow Codepen](https://codepen.io/seme332/pen/reJOwo)
+
 
 -------------------
 
