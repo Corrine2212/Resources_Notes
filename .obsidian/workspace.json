@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9301cd3913703716",
+        "id": "21724270ead06463",
         "type": "tabs",
         "children": [
           {
-            "id": "36c52131cac6a523",
+            "id": "eeb9c339d1b558a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML & CSS Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b75d0826bfc2abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d940bc5b9e787aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c4c3cebb3e3baf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IntelliJ Shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "HTML & CSS Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "HTML & CSS Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "HTML & CSS Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "HTML & CSS Resources.md"
               }
             }
           }
@@ -188,15 +147,16 @@
   },
   "active": "e532c4c1f9c2b2a0",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Untitled 1.canvas",
     "2023-07-11.md",
-    "Untitled Diagram.svg",
     "IntelliJ Shortcuts.md",
     "README.md",
+    "Misc..md",
     "Instructions for setting up React JS project.md",
     "HTML & CSS Resources.md",
+    "Untitled.canvas",
+    "Untitled Diagram.svg",
     "Github Resources.md",
-    "Misc..md",
     "HTML & CSS"
   ]
 }
