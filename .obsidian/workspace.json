@@ -73,9 +73,11 @@
             "id": "e532c4c1f9c2b2a0",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -106,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 870.5
   },
   "right": {
     "id": "ea46fae5aa19d2e4",
@@ -122,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IntelliJ Shortcuts.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IntelliJ Shortcuts.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IntelliJ Shortcuts.md"
+                "file": "README.md"
               }
             }
           }
@@ -184,10 +186,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0c4c3cebb3e3baf0",
+  "active": "e532c4c1f9c2b2a0",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled.canvas",
+    "2023-07-11.md",
+    "Untitled Diagram.svg",
     "IntelliJ Shortcuts.md",
+    "README.md",
     "Instructions for setting up React JS project.md",
     "HTML & CSS Resources.md",
     "Github Resources.md",
