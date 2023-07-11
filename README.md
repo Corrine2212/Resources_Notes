@@ -9,4 +9,4 @@ A place for useful resources and learning notes.
 ### Project setup
 
 [[Instructions for setting up React JS project]]
-/
+
