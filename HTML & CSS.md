@@ -3,6 +3,10 @@
 
 ### CSS
 
+**Boilerplates:**
 [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+[CSS Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/main/dist/css/normalize.css#L40)
 
+Gradients:
+[SVG Animation Backgrou d](https://codepen.io/thanks2music/pen/VmJjaG)
 
