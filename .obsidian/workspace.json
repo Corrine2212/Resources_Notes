@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML & CSS.md",
+                "file": "Misc..md",
                 "mode": "source",
                 "source": false
               }
@@ -174,11 +174,11 @@
   },
   "active": "d940bc5b9e787aac",
   "lastOpenFiles": [
+    "Misc..md",
+    "Instructions for setting up React JS project.md",
     "HTML & CSS.md",
     "Github.md",
     "README.md",
-    "Instructions for setting up React JS project.md",
-    "Misc..md",
     "HTML & CSS"
   ]
 }
