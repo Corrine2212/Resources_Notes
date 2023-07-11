@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "21724270ead06463",
+        "id": "25f088f72c66fb8d",
         "type": "tabs",
         "children": [
           {
-            "id": "eeb9c339d1b558a7",
+            "id": "3d8bd771e27bdfcf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IntelliJ Shortcuts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -62,12 +66,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "08e44a98d746e8f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 870.5
+    "width": 230.5
   },
   "right": {
     "id": "ea46fae5aa19d2e4",
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML & CSS Resources.md",
+                "file": "IntelliJ Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML & CSS Resources.md",
+                "file": "IntelliJ Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML & CSS Resources.md"
+                "file": "IntelliJ Shortcuts.md"
               }
             }
           }
@@ -145,18 +160,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e532c4c1f9c2b2a0",
+  "active": "3d8bd771e27bdfcf",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "2023-07-11.md",
-    "IntelliJ Shortcuts.md",
-    "README.md",
-    "Misc..md",
-    "Instructions for setting up React JS project.md",
     "HTML & CSS Resources.md",
+    "Instructions for setting up React JS project.md",
+    "IntelliJ Shortcuts.md",
+    "Misc..md",
+    "Github Resources.md",
+    "2023-07-11.md",
+    "Untitled 1.canvas",
+    "README.md",
     "Untitled.canvas",
     "Untitled Diagram.svg",
-    "Github Resources.md",
     "HTML & CSS"
   ]
 }
