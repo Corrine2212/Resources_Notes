@@ -69,5 +69,13 @@
 -------------------
 
 
+**Frontend Practice:**
+
+[Frontend Practice](https://www.frontendpractice.com/)
+
+[Frontend Mentor](https://www.frontendmentor.io/)
 
 
+Design Inspo:
+
+[Awards](https://www.awwwards.com/)
