@@ -16,6 +16,9 @@
 
 [SVG Animation Background](https://codepen.io/thanks2music/pen/VmJjaG)
 
+[Gradient Generator](https://cssgradient.io/)
+
+
 -------------------
 
 **Tools:**
@@ -28,12 +31,22 @@
 
 [Ready made buttons](https://getcssscan.com/css-buttons-examples)
 
+[Button]()
+
 -------------------
 
 **Typography:**
 
 [Archtype](https://archetypeapp.com/#)
 
+
+-------------------
+
+**Box shadows:**
+
+[Ready made box shadows](https://getcssscan.com/css-box-shadow-examples)
+
+-------------------
 
 
 
