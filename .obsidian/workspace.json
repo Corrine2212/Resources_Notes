@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions for setting up React JS project.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instructions for setting up React JS project.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instructions for setting up React JS project.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instructions for setting up React JS project.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "9c5a8fe1aede3f4c",
   "lastOpenFiles": [
-    "README.md",
     "Instructions for setting up React JS project.md",
     "HTML & CSS.md",
+    "README.md",
     "HTML & CSS"
   ]
 }
