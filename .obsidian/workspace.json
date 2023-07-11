@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e92c32ac550360f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VS Code Shortcuts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "VS Code Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "VS Code Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "VS Code Shortcuts.md"
               }
             }
           }
@@ -160,8 +173,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3d8bd771e27bdfcf",
+  "active": "1e92c32ac550360f",
   "lastOpenFiles": [
+    "README.md",
+    "VS Code Shortcuts.md",
     "IntelliJ Shortcuts.md",
     "HTML & CSS Resources.md",
     "Instructions for setting up React JS project.md",
@@ -169,7 +184,6 @@
     "Github Resources.md",
     "2023-07-11.md",
     "Untitled 1.canvas",
-    "README.md",
     "Untitled.canvas",
     "Untitled Diagram.svg",
     "HTML & CSS"
