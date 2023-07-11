@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VS Code Shortcuts.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VS Code Shortcuts.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VS Code Shortcuts.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,10 +172,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1e92c32ac550360f",
+  "active": "3d8bd771e27bdfcf",
   "lastOpenFiles": [
-    "README.md",
     "VS Code Shortcuts.md",
+    "README.md",
     "IntelliJ Shortcuts.md",
     "HTML & CSS Resources.md",
     "Instructions for setting up React JS project.md",
