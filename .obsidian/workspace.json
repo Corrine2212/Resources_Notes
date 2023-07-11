@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Misc..md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Misc..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Misc..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Misc..md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "9b75d0826bfc2abb",
   "lastOpenFiles": [
+    "README.md",
     "Misc..md",
     "HTML & CSS.md",
     "Instructions for setting up React JS project.md",
-    "README.md",
     "HTML & CSS"
   ]
 }
