@@ -28,6 +28,8 @@
 
 [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+[UI Design Patterns ](https://ui-patterns.com/patterns)
+
 
 -------------------
 
