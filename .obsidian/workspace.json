@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc..md",
+                "file": "HTML & CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d940bc5b9e787aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc..md",
+                "file": "Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc..md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc..md"
+                "file": "Github.md"
               }
             }
           }
@@ -160,12 +172,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9b75d0826bfc2abb",
+  "active": "d940bc5b9e787aac",
   "lastOpenFiles": [
-    "README.md",
-    "Misc..md",
     "HTML & CSS.md",
+    "Github.md",
+    "README.md",
     "Instructions for setting up React JS project.md",
+    "Misc..md",
     "HTML & CSS"
   ]
 }
