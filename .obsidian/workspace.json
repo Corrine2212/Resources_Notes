@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VS Code Shortcuts.md",
+                "file": "Career Things.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VS Code Shortcuts.md",
+                "file": "Career Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VS Code Shortcuts.md",
+                "file": "Career Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VS Code Shortcuts.md"
+                "file": "Career Things.md"
               }
             }
           }
@@ -247,19 +247,19 @@
   },
   "active": "f41d1b607e26e487",
   "lastOpenFiles": [
-    "HTML & CSS Resources.md",
-    "README.md",
-    "Instructions for setting up Java & JS App.md",
-    "Spring screenshot.png",
     "Command Line Shortcuts.md",
-    "Instructions for setting up React JS project.md",
-    "Career Things.md",
     "Connie's own links.md",
     "Github Resources.md",
-    "React Resources.md",
-    "VS Code Shortcuts.md",
+    "HTML & CSS Resources.md",
+    "Instructions for setting up Java & JS App.md",
+    "Instructions for setting up React JS project.md",
+    "Spring screenshot.png",
     "Useful Github Repos.md",
+    "VS Code Shortcuts.md",
+    "Career Things.md",
     "Misc..md",
+    "README.md",
+    "React Resources.md",
     "Markdown Syntax.md",
     "IntelliJ Shortcuts.md",
     "2023-07-11.md",
