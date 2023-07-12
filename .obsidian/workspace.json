@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "25f088f72c66fb8d",
+        "id": "a228f1dec9284e97",
         "type": "tabs",
         "children": [
           {
-            "id": "02fca07a78e105d5",
+            "id": "59e6c1150c50a8b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instructions for setting up React JS project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c45e5fd17c86653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instructions for setting up Java & JS App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e92c32ac550360f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VS Code Shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
