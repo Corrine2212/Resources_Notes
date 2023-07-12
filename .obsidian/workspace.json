@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d8bd771e27bdfcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f41d1b607e26e487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career Things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7074c606de37753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML & CSS Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8cc702f312bfba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Github Repos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50bf83a5a0bb4217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VS Code Shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "02fca07a78e105d5",
             "type": "leaf",
             "state": {
@@ -103,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career Things.md",
+                "file": "Instructions for setting up React JS project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career Things.md",
+                "file": "Instructions for setting up React JS project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career Things.md"
+                "file": "Instructions for setting up React JS project.md"
               }
             }
           }
@@ -245,23 +184,23 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f41d1b607e26e487",
+  "active": "08e44a98d746e8f9",
   "lastOpenFiles": [
+    "Instructions for setting up Java & JS App.md",
+    "Instructions for setting up React JS project.md",
+    "IntelliJ Shortcuts.md",
+    "Markdown Syntax.md",
+    "Misc..md",
+    "README.md",
+    "Useful Github Repos.md",
+    "VS Code Shortcuts.md",
+    "Career Things.md",
     "Command Line Shortcuts.md",
     "Connie's own links.md",
     "Github Resources.md",
     "HTML & CSS Resources.md",
-    "Instructions for setting up Java & JS App.md",
-    "Instructions for setting up React JS project.md",
     "Spring screenshot.png",
-    "Useful Github Repos.md",
-    "VS Code Shortcuts.md",
-    "Career Things.md",
-    "Misc..md",
-    "README.md",
     "React Resources.md",
-    "Markdown Syntax.md",
-    "IntelliJ Shortcuts.md",
     "2023-07-11.md",
     "Untitled 1.canvas",
     "Untitled.canvas",

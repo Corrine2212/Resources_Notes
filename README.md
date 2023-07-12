@@ -3,7 +3,6 @@
 A place for useful resources and learning notes.
 
 
-
 [HTML & CSS Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/HTML%20%26%20CSS%20Resources.md)
 
 [React Resources]()
@@ -20,6 +19,7 @@ A place for useful resources and learning notes.
 [Setting up Python project]() - work in progress
 
 [Setting up full stack Java & JS App ]() - work in progress
+
 
 ### Keyboard shortcuts:
 
