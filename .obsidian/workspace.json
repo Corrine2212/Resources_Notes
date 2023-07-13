@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc.md",
+                "file": "Favourite Fonts.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc.md",
+                "file": "Favourite Fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc.md",
+                "file": "Favourite Fonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc.md"
+                "file": "Favourite Fonts.md"
               }
             }
           }
@@ -185,24 +185,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "58d79e8621ac8f16",
+  "active": "08e44a98d746e8f9",
   "lastOpenFiles": [
-    "Github Resources.md",
-    "Misc.md",
-    "README.md",
-    "Useful Github Repos.md",
+    "Git & Github Resources.md",
     "Favourite Fonts.md",
     "Courses.md",
     "Connie's own links.md",
     "Career Things.md",
-    "01 HTML & CSS Resources.md",
-    "React Resources.md",
-    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
-    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
-    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "03 Java Resources.md",
     "02 Javascript Resources.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+    "Useful Github Repos.md",
+    "Misc.md",
+    "React Resources.md",
+    "README.md",
+    "01 HTML & CSS Resources.md",
+    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "images/SCR-20230713-prfx.png",
     "Untitled.canvas",
     "2023-07-13.md",

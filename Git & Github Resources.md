@@ -1,4 +1,4 @@
-# Github Resources
+# Git & Github Resources
 
 - [Git Explorer](https://gitexplorer.com/)
 

@@ -3,6 +3,7 @@
 
 ### Api's:  
 - [SpaceTraders API Doc](https://docs.spacetraders.io/)
+- [Public Api's](https://github.com/public-apis/public-apis#books)
 
 
 ### Code Visualisers:  

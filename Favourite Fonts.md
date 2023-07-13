@@ -25,5 +25,7 @@ font-family: 'Reem Kufi', sans-serif;
 
 -----
 
+### Accessibility Friendly Fonts:
 
+#### [Inter](https://fonts.google.com/specimen/Reem+Kufi?query=kufi)
 
