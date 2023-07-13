@@ -54,9 +54,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "801e9dfac664bc62",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML & CSS Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML & CSS Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HTML & CSS Resources.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -197,10 +201,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "58d79e8621ac8f16",
+  "active": "801e9dfac664bc62",
   "lastOpenFiles": [
-    "Javascript Resources.md",
     "HTML & CSS Resources.md",
+    "Javascript Resources.md",
     "Connie's own links.md",
     "Career Things.md",
     "Misc.md",
