@@ -2,11 +2,24 @@
 
 ### General
 
+|Operation|Command|
+|---|---|
+|open command palette|CMD + SHIFT + P|
+|open file finder|CMD + P|
 
 ### Editing
 
+|Operation|Command|
+|---|---|
+|delete line|SHIFT + CMD + K|
+|move line down / up|OPT + DOWN / UP|
 
-### navigation
+
+### Navigation
+
+|Operation|Command|
+|---|---|
+|switch between tabs|CMD + OPTION + ARROW|
 
 
 |Operation|Command|
