@@ -96,11 +96,49 @@ font-family: 'Work Sans', sans-serif;
 ```
 
 
+
 ### Old style serifs:
 
-Garamond
+#### [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond?preview.text=Cormorant%20Garamond&preview.text_type=custom&query=garamond)
 
-Bodoni
+![Cormorant Garamond](./images/CormorantGaramond.png)
+
+```
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+```
+
+```
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+</style>
+```
+
+```
+font-family: 'Cormorant Garamond', serif;
+```
 
 
+-----
 
+#### [Bodoni Moda](https://fonts.google.com/specimen/Bodoni+Moda?preview.text=Bodoni&preview.text_type=custom&query=bodoni)
+
+![Bodoni Moda](./images/BodoniModa.png)
+
+
+```
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+```
+
+```
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+</style>
+```
+
+```
+font-family: 'Bodoni Moda', serif;
+```
