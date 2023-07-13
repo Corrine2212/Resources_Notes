@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bc6f20d021ac30e4",
+        "id": "1a2e806856fe1d71",
         "type": "tabs",
         "children": [
           {
-            "id": "8044d2d33e2d744c",
+            "id": "ddbb6659e66b0da0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Connie's own links.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -36,11 +32,14 @@
             "id": "e532c4c1f9c2b2a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 HTML & CSS Resources.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -66,23 +65,13 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "08e44a98d746e8f9",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 476.5
   },
   "right": {
     "id": "ea46fae5aa19d2e4",
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connie's own links.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connie's own links.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connie's own links.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -146,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,24 +148,26 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8044d2d33e2d744c",
+  "active": "7f577a8afc71b3cd",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "01 HTML & CSS Resources.md",
+    "Untitled Diagram.svg",
+    "Git & Github Resources.md",
+    "Useful Github Repos.md",
+    "README.md",
+    "Connie's own links.md",
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "Courses.md",
     "Career Things.md",
     "03 Java Resources.md",
     "02 Javascript Resources.md",
-    "01 HTML & CSS Resources.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
-    "Useful Github Repos.md",
     "React Resources.md",
-    "README.md",
     "Misc.md",
-    "Git & Github Resources.md",
     "Favourite Fonts.md",
-    "Connie's own links.md",
     "images/BodoniModa.png",
     "images/CormorantGaramond.png",
     "images/WorkSans.png",
@@ -185,7 +175,6 @@
     "images/Inter.png",
     "images/SpaceGrotesk.png",
     "images/SCR-20230713-prfx.png",
-    "Untitled.canvas",
     "2023-07-13.md",
     "HTML.md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
@@ -197,7 +186,6 @@
     "images/Spring screenshot.png",
     "2023-07-11.md",
     "Untitled 1.canvas",
-    "Untitled Diagram.svg",
     "HTML & CSS"
   ]
 }

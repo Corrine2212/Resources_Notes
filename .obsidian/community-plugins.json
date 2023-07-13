@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "obsidian-plugin-toc",
-  "drawio-obsidian"
+  "drawio-obsidian",
+  "obsidian-table-generator"
 ]

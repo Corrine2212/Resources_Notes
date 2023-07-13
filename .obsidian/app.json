@@ -1,6 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "defaultViewMode": "preview",
-  "attachmentFolderPath": "images"
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "images",
+  "livePreview": false
 }
