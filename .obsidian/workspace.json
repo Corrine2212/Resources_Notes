@@ -11,11 +11,28 @@
             "id": "59e6c1150c50a8b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTML & CSS Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2937c6172f7a1e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instructions for setting up React JS project.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instructions for setting up React JS project.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instructions for setting up React JS project.md"
+                "file": "README.md"
               }
             }
           }
@@ -156,10 +173,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "08e44a98d746e8f9",
+  "active": "2937c6172f7a1e7b",
   "lastOpenFiles": [
-    "Instructions for setting up Java & JS App.md",
+    "Favourite Fonts.md",
+    "HTML & CSS Resources.md",
     "Instructions for setting up React JS project.md",
+    "Instructions for setting up Java & JS App.md",
     "IntelliJ Shortcuts.md",
     "Markdown Syntax.md",
     "Misc..md",
@@ -170,7 +189,6 @@
     "Command Line Shortcuts.md",
     "Connie's own links.md",
     "Github Resources.md",
-    "HTML & CSS Resources.md",
     "Spring screenshot.png",
     "React Resources.md",
     "2023-07-11.md",
