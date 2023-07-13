@@ -1,9 +1,10 @@
 # Favourite Fonts
 
 
-##### [Reem Kufi](https://fonts.google.com/specimen/Reem+Kufi?query=kufi)
+#### [Reem Kufi](https://fonts.google.com/specimen/Reem+Kufi?query=kufi)
 
-![[ReemKufi.png]]
+
+![ReemKufi.png](./images/ReemKufi.png)
 
 ```
 <link rel="preconnect" href="https://fonts.googleapis.com">  
