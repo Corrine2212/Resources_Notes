@@ -62,6 +62,9 @@
 
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+
+
 ##### Grids:
 
 - [CSS Grid Garden](https://cssgridgarden.com/)
