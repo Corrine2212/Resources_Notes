@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc..md",
+                "file": "HTML & CSS Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc..md",
+                "file": "HTML & CSS Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc..md",
+                "file": "HTML & CSS Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc..md"
+                "file": "HTML & CSS Resources.md"
               }
             }
           }
@@ -199,12 +199,12 @@
   },
   "active": "58d79e8621ac8f16",
   "lastOpenFiles": [
-    "Java Resources.md",
     "README.md",
-    "Useful Github Repos.md",
-    "React Resources.md",
     "HTML & CSS Resources.md",
     "Misc..md",
+    "Java Resources.md",
+    "Useful Github Repos.md",
+    "React Resources.md",
     "Untitled.canvas",
     "2023-07-13.md",
     "HTML.md",
