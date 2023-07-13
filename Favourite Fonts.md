@@ -27,5 +27,44 @@ font-family: 'Reem Kufi', sans-serif;
 
 ### Accessibility Friendly Fonts:
 
-#### [Inter](https://fonts.google.com/specimen/Reem+Kufi?query=kufi)
+#### [Inter](https://fonts.google.com/specimen/Inter)
 
+![]()
+
+```
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+```
+
+```
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+</style>
+```
+
+```
+font-family: 'Inter', sans-serif;
+```
+
+
+
+#### [Space Grotesk]()
+
+![Space Grotesk Font]()
+
+```
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+```
+
+```
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+</style>
+```
+
+```
+font-family: 'Space Grotesk', sans-serif;
+```
