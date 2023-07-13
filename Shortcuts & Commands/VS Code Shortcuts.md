@@ -1,6 +1,6 @@
 # VS Code Shortcuts
 
-### General
+### General:
 
 |Operation|Command|
 |---|---|
@@ -8,7 +8,7 @@
 |open file finder|CMD + P|
 
 
-### Editing
+### Editing:
 
 |Operation|Command|
 |---|---|
@@ -16,8 +16,11 @@
 |move line down / up|OPT + DOWN / UP|
 |move cursor to start or end of line|CMD + RIGHT / LEFT|
 |add comment|CMD + /|
+|delete character on left / right|CTRL + H / D|
+|add cursor | OPT + CLICK|
 
-### Navigation
+
+### Navigation:
 
 |Operation|Command|
 |---|---|
@@ -48,3 +51,5 @@
 then... 
 
 `kill -9 <PID>`
+
+kdjsljfd dfsfsd
