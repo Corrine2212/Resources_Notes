@@ -69,7 +69,7 @@
 
 - [CSS Grid Garden](https://cssgridgarden.com/)
 
-- [Grid Critters(https://gridcritters.com/)
+- [Grid Critters](https://gridcritters.com/) - paid
 
 
 
