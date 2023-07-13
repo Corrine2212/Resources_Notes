@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Github Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Github Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Github Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Github Resources.md"
               }
             }
           }
@@ -175,6 +175,8 @@
   },
   "active": "2937c6172f7a1e7b",
   "lastOpenFiles": [
+    "Useful Github Repos.md",
+    "README.md",
     "Favourite Fonts.md",
     "HTML & CSS Resources.md",
     "Instructions for setting up React JS project.md",
@@ -182,8 +184,6 @@
     "IntelliJ Shortcuts.md",
     "Markdown Syntax.md",
     "Misc..md",
-    "README.md",
-    "Useful Github Repos.md",
     "VS Code Shortcuts.md",
     "Career Things.md",
     "Command Line Shortcuts.md",

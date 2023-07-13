@@ -9,6 +9,8 @@ A place for useful resources and learning notes.
 
 [Github Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/Github%20Resources.md)
 
+[Favourite Fonts]()
+
 [Misc.](https://github.com/Corrine2212/Resources_Notes/blob/main/Misc..md)
 
 
@@ -28,4 +30,4 @@ A place for useful resources and learning notes.
 [VS Code Shortcuts](https://github.com/Corrine2212/Resources_Notes/blob/main/VS%20Code%20Shortcuts.md) - incomplete
 
 
-
+[Career Things](https://github.com/Corrine2212/Resources_Notes/blob/main/Career%20Things.md)
