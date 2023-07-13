@@ -1,4 +1,4 @@
 # REACT Resources
 
-[React hooks](https://blog.logrocket.com/react-hooks-cheat-sheet-solutions-common-problems/)
+- [React hooks](https://blog.logrocket.com/react-hooks-cheat-sheet-solutions-common-problems/)
 

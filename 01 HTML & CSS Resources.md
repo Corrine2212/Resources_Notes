@@ -123,7 +123,7 @@
 
 - [Fonts in the Wild](https://www.fontsinthewild.com/) - Type's used in real sites
 
-- [[Favourite Fonts]]()
+- [Favourite Fonts](https://github.com/Corrine2212/Resources_Notes/blob/main/Favourite%20Fonts.md)
 
 -------------------
 
