@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Favourite Fonts.md",
+                "file": "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Favourite Fonts.md",
+                "file": "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Favourite Fonts.md",
+                "file": "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Favourite Fonts.md"
+                "file": "SHORTCUTS & COMMANDS/Command Line Shortcuts.md"
               }
             }
           }
@@ -175,23 +175,26 @@
   },
   "active": "2937c6172f7a1e7b",
   "lastOpenFiles": [
-    "Useful Github Repos.md",
-    "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
+    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
+    "README.md",
+    "Favourite Fonts.md",
+    "Github Resources.md",
     "HTML & CSS Resources.md",
+    "Misc..md",
+    "React Resources.md",
+    "Useful Github Repos.md",
+    "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
+    "PROJECT GUIDES & INSTRUCTIONS",
+    "images",
+    "images/ReemKufi.png",
+    "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
     "Career Things.md",
     "Connie's own links.md",
     "SHORTCUTS & COMMANDS",
-    "Github Resources.md",
-    "README.md",
-    "Favourite Fonts.md",
-    "Instructions for setting up React JS project.md",
-    "Instructions for setting up Java & JS App.md",
-    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
-    "Markdown Syntax.md",
-    "Misc..md",
-    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
-    "Spring screenshot.png",
-    "React Resources.md",
+    "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
+    "images/Spring screenshot.png",
     "2023-07-11.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
