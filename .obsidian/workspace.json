@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md"
+                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md"
               }
             }
           }
@@ -211,6 +211,9 @@
   },
   "active": "801e9dfac664bc62",
   "lastOpenFiles": [
+    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "README.md",
     "Career Things.md",
@@ -227,9 +230,6 @@
     "Untitled.canvas",
     "2023-07-13.md",
     "HTML.md",
-    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
-    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
-    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
     "PROJECT GUIDES & INSTRUCTIONS",
     "images",
