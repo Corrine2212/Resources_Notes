@@ -22,79 +22,85 @@
 
 ## HTML:
 
-[HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-[HTML5 Cheatsheet](https://www.wpkube.com/html5-cheat-sheet/)
+- [HTML5 Cheatsheet](https://www.wpkube.com/html5-cheat-sheet/)
 
 
 ## CSS & Design:
 
-[CSS Tricks](https://css-tricks.com/)
+- [CSS Tricks](https://css-tricks.com/)
 
-An extensive CSS reference with all the important properties and info to learn CSS from the basics - [CSS References](https://tympanus.net/codrops/css_reference/)
+- An extensive CSS reference with all the important properties and info to learn CSS from the basics - [CSS References](https://tympanus.net/codrops/css_reference/)
 
 -------------------
 
 ### Boilerplates:
 
-[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+- [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 
-[CSS Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/main/dist/css/normalize.css#L40)
+- [CSS Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/main/dist/css/normalize.css#L40)
 
 -------------------
 
 ### Gradients:
 
-[SVG Animation Background](https://codepen.io/thanks2music/pen/VmJjaG)
+- [SVG Animation Background](https://codepen.io/thanks2music/pen/VmJjaG)
 
-[Gradient Generator](https://cssgradient.io/)
+- [Gradient Generator](https://cssgradient.io/)
 
 
 -------------------
 
 ### Tools & Guides:
 
-[Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#section-display)
+##### Flexbox:
 
-[Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#section-display)
 
-[Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-[CSS Grid Garden](https://cssgridgarden.com/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
 
-[UI Design Patterns ](https://ui-patterns.com/patterns)
+##### Grids:
 
-[ThisPersonDoesNotExist](https://thispersondoesnotexist.com/)- Profile img generator
+- [CSS Grid Garden](https://cssgridgarden.com/)
+
+
+
+- [UI Design Patterns ](https://ui-patterns.com/patterns)
+
+- [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/)- Profile img generator
 
 -------------------
 
 ### Buttons:
 
-[Ready made buttons](https://getcssscan.com/css-buttons-examples)
+- [Ready made buttons](https://getcssscan.com/css-buttons-examples)
 
-[Button Shadow Codepen](https://codepen.io/seme332/pen/reJOwo)
+- [Button Shadow Codepen](https://codepen.io/seme332/pen/reJOwo)
 
 
 -------------------
 
 ### Box shadows:
 
-[Ready made box shadows](https://getcssscan.com/css-box-shadow-examples)
+- [Ready made box shadows](https://getcssscan.com/css-box-shadow-examples)
 
 
 -------------------
 
 ### Audio Elements
 
-[How to style audio elements](https://blog.shahednasser.com/how-to-style-an-audio-element/)
+- [How to style audio elements](https://blog.shahednasser.com/how-to-style-an-audio-element/)
 
 -------------------
 
 ### Color-palettes:
 
-[Paletton](https://paletton.com/#uid=4001p0k6J957ggZ73dr8S6jcu5P)
+- [Paletton](https://paletton.com/#uid=4001p0k6J957ggZ73dr8S6jcu5P)
 
-[Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-8fb4ff-ebf1ff-ff8f94)
+- [Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-8fb4ff-ebf1ff-ff8f94)
 
 
 -------------------
@@ -102,9 +108,9 @@ An extensive CSS reference with all the important properties and info to learn C
 
 ### Typography:
 
-[Archtype](https://archetypeapp.com/#)
+- [Archtype](https://archetypeapp.com/#)
 
-[Typescale](https://typescale.com/)
+- [Typescale](https://typescale.com/)
 
 
 -------------------
@@ -112,9 +118,9 @@ An extensive CSS reference with all the important properties and info to learn C
 
 ### Frontend Practice:
 
-[Frontend Practice](https://www.frontendpractice.com/)
+- [Frontend Practice](https://www.frontendpractice.com/)
 
-[Frontend Mentor](https://www.frontendmentor.io/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
 
 
 -------------------
@@ -122,18 +128,18 @@ An extensive CSS reference with all the important properties and info to learn C
 
 ### Design Inspo:
 
-[Awwwards](https://www.awwwards.com/)
+- [Awwwards](https://www.awwwards.com/)
 
 
 -------------------
 
 ### Fun things:
 
-[Codepen CSS Grid: Periodic Table](https://codepen.io/oliviale/pen/ZmvPPd)
+- [Codepen CSS Grid: Periodic Table](https://codepen.io/oliviale/pen/ZmvPPd)
 
 
 -------------------
 
 ### Learning notes:
 
-[My own notes](https://foil-bagpipe-84b.notion.site/HTML-CSS-0136f64cd9c7481d87920ef8a2c3770b?pvs=4)
+- [My own notes](https://foil-bagpipe-84b.notion.site/HTML-CSS-0136f64cd9c7481d87920ef8a2c3770b?pvs=4)
