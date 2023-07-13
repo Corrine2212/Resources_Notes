@@ -1,21 +1,7 @@
 # HTML & CSS Resources
 
-## Table of Contents:
-
-- [[#HTML:|HTML:]]
-- [[#CSS & Design:|CSS & Design:]]
-	- [[#CSS & Design:#Boilerplates:|Boilerplates:]]
-	- [[#CSS & Design:#Gradients:|Gradients:]]
-	- [[#CSS & Design:#Tools & Guides:|Tools & Guides:]]
-	- [[#CSS & Design:#Buttons:|Buttons:]]
-	- [[#CSS & Design:#Typography:|Typography:]]
-	- [[#CSS & Design:#Color-palettes:|Color-palettes:]]
-	- [[#CSS & Design:#Box shadows:|Box shadows:]]
-	- [[#CSS & Design:#Frontend Practice:|Frontend Practice:]]
-	- [[#CSS & Design:#Design Inspo:|Design Inspo:]]
 
 
--------------------
 
 ## HTML:
 
@@ -127,5 +113,8 @@
 [Codepen CSS Grid: Periodic Table](https://codepen.io/oliviale/pen/ZmvPPd)
 
 
+-------------------
 
-[My own learning]()
+### Learning notes:
+
+[My own notes](https://foil-bagpipe-84b.notion.site/HTML-CSS-0136f64cd9c7481d87920ef8a2c3770b?pvs=4)
