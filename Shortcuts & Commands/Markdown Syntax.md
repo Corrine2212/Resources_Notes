@@ -32,4 +32,34 @@ And this is the second line.</p>
 |---|---|---|
 | `**bold**` | `<strong>bold</strong>` |** bold** |
 | `*italics*` | `<em>italics</em>` | *italics* |
-| `***bold and italic***`| <em><strong>bold and italic</strong></em> |***bold and italic***
+| `***bold and italic***`| `<em><strong>bold and italic</strong></em>` |***bold and italic***
+
+
+### Blockquotes:
+
+```
+> This is a blockquote.
+```
+
+> This is a blockquote.
+
+Multi line blockquote:
+
+```
+> This is a multi line blockquote.
+>
+> Yup.
+```
+
+### Images:
+
+```
+![Tux, the Linux mascot](/assets/images/tux.png)
+```
+
+
+### Code
+
+```
+Enclose `` backticks to denote word as code
+```
