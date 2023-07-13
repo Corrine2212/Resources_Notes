@@ -1,40 +1,23 @@
 # HTML & CSS Resources
 
-## Obsidian TOC:
-- [[#HTML:|HTML:]]
-- [[#CSS & Design:|CSS & Design:]]
-	- [[#CSS & Design:#Boilerplates:|Boilerplates:]]
-	- [[#CSS & Design:#Gradients:|Gradients:]]
-	- [[#CSS & Design:#Tools & Guides:|Tools & Guides:]]
-	- [[#CSS & Design:#Buttons:|Buttons:]]
-	- [[#CSS & Design:#Box shadows:|Box shadows:]]
-	- [[#CSS & Design:#Audio Elements|Audio Elements]]
-	- [[#CSS & Design:#Color-palettes:|Color-palettes:]]
-	- [[#CSS & Design:#Typography:|Typography:]]
-	- [[#CSS & Design:#Frontend Practice:|Frontend Practice:]]
-	- [[#CSS & Design:#Design Inspo:|Design Inspo:]]
-	- [[#CSS & Design:#Fun things:|Fun things:]]
-	- [[#CSS & Design:#Learning notes:|Learning notes:]]
-
-
-
 ## Table of Contents:
-- [HTML](#HTML)
-- [CSS & Design](#CSS&Design)
-	- [Boilerplates](#Boilerplates)
-	- [Gradients](#Gradients)
-	- [Tools & Guides](#Tools&Guides)
-	- [Buttons](#Buttons)
-	- [Box Shadows](#Box%20shadows)
-	- [Audio Elements](#Audio%20Elements)
-	- [Color-palettes](#Color-palettes)
-	- [Typography](#Typography)
-	- [Frontend Practice](#Frontend%20Practice)
-	- [Design Inspo](#Design%20Inspo)
-	- [Fun Things](#Fun%20Things)
-	- [Learning Notes](#Learning%20Notes)
-	
 
+- [HTML \& CSS Resources](#html--css-resources)
+	- [Table of Contents:](#table-of-contents)
+	- [HTML:](#html)
+	- [CSS \& Design:](#css--design)
+		- [Boilerplates:](#boilerplates)
+		- [Gradients:](#gradients)
+		- [Tools \& Guides:](#tools--guides)
+		- [Buttons:](#buttons)
+		- [Box shadows:](#box-shadows)
+		- [Audio Elements](#audio-elements)
+		- [Color-palettes:](#color-palettes)
+		- [Typography:](#typography)
+		- [Frontend Practice:](#frontend-practice)
+		- [Design Inspo:](#design-inspo)
+		- [Fun things:](#fun-things)
+		- [Learning notes:](#learning-notes)
 
 
 ## HTML:
