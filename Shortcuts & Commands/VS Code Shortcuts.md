@@ -13,6 +13,14 @@
 |||
 
 
+### Custom Shortcuts:
+
+|Operation|Command|
+|---|---|
+| close activity bar | OPT + CMD + A | 
+| close explorer bar | CMD + B | 
+
+
 
 ---------------
 

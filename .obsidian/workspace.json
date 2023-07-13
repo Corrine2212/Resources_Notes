@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+                "file": "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+                "file": "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+                "file": "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md"
+                "file": "SHORTCUTS & COMMANDS/VS Code Shortcuts.md"
               }
             }
           }
@@ -211,8 +211,8 @@
   },
   "active": "801e9dfac664bc62",
   "lastOpenFiles": [
-    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "README.md",
