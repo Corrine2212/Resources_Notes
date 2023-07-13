@@ -4,4 +4,3 @@ Intro to Web Development: [FrontEnd Masters](https://frontendmasters.com/courses
 
 [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
-	

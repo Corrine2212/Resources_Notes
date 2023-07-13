@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Favourite Fonts.md",
+                "file": "HTML & CSS Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Favourite Fonts.md",
+                "file": "HTML & CSS Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Favourite Fonts.md",
+                "file": "HTML & CSS Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Favourite Fonts.md"
+                "file": "HTML & CSS Resources.md"
               }
             }
           }
@@ -199,19 +199,20 @@
   },
   "active": "e10cad82cb42f07c",
   "lastOpenFiles": [
-    "Github Resources.md",
+    "Connie's own links.md",
+    "Career Things.md",
     "Misc.md",
     "README.md",
-    "Useful Github Repos.md",
-    "HTML & CSS Resources.md",
+    "Courses.md",
     "Favourite Fonts.md",
-    "Java Resources.md",
+    "Github Resources.md",
+    "HTML & CSS Resources.md",
     "React Resources.md",
+    "Java Resources.md",
+    "Useful Github Repos.md",
     "Untitled.canvas",
     "2023-07-13.md",
     "HTML.md",
-    "Connie's own links.md",
-    "Courses.md",
     "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
@@ -220,7 +221,6 @@
     "PROJECT GUIDES & INSTRUCTIONS",
     "images",
     "images/ReemKufi.png",
-    "Career Things.md",
     "SHORTCUTS & COMMANDS",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
     "images/Spring screenshot.png",

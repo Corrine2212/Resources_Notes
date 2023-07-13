@@ -23,6 +23,10 @@
 
 [Roadmap](https://roadmap.sh/)
 
+### System Designer:
+
+[DesignFirst: System Designer](https://designfirst.io/systemdesigner/)
+
 
 ### Reading Materials:
 
