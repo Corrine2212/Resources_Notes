@@ -11,10 +11,10 @@
 
 
 ### Code Visualisers:  
-- [Python, JS, C, C++, Java](https://pythontutor.com/visualize.html#mode=edit)- creates a visual re
+- [Python, JS, C, C++, Java](https://pythontutor.com/visualize.html#mode=edit)- creates a visual representation of the code so you can understand what it's doing
 
 
-### Roadmaps:  
+### Learning Roadmaps:  
 - [Roadmap](https://roadmap.sh/)
 
 

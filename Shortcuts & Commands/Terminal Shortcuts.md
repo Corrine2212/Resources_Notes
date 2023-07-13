@@ -1,8 +1,5 @@
 # Terminal Shortcuts
 
-https://ss64.com/osx/
-
-[Terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 
 |Operation|Command|
 |---|---|
@@ -20,3 +17,6 @@ https://ss64.com/osx/
 |move files and rename files e.g. mv a_ruby_file.rb, pre_coursework, mv a_ruby_file.rb ruby_stuff.rb|mv|
 |remove files|rm|
 |remove directory only when EMPTY|rmdir|
+
+
+##
