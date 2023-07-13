@@ -19,21 +19,22 @@
 
 
 ## Table of Contents:
-[HTML](#HTML)
-[CSS & Design](#CSS&Design)
-	[Boilerplates](#Boilerplates)
-	[Gradients](#Gradients)
-	[Tools & Guides](#Tools&Guides)
-	[Buttons](#Buttons)
-	[Box Shadows](#Box%20shadows)
-	[Audio Elements](#Audio%20Elements)
-	[Color-palettes](#Color-palettes)
-	[Typography](#Typography)
-	[Frontend Practice](#Frontend%20Practice)
-	[Design Inspo](#Design%20Inspo)
-	[Fun Things](#Fun%20Things)
+- [HTML](#HTML)
+- [CSS & Design](#CSS&Design)
+	- [Boilerplates](#Boilerplates)
+	- [Gradients](#Gradients)
+	- [Tools & Guides](#Tools&Guides)
+	- [Buttons](#Buttons)
+	- [Box Shadows](#Box%20shadows)
+	- [Audio Elements](#Audio%20Elements)
+	- [Color-palettes](#Color-palettes)
+	- [Typography](#Typography)
+	- [Frontend Practice](#Frontend%20Practice)
+	- [Design Inspo](#Design%20Inspo)
+	- [Fun Things](#Fun%20Things)
+	- [Learning Notes](#Learning%20Notes)
 	
-	
+
 
 
 ## HTML:
