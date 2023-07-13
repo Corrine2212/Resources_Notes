@@ -7,3 +7,5 @@
 
 - [Kevin Powell CSS](https://www.kevinpowell.co/courses/) - 
 
+- [Learn Javascript](https://scrimba.com/learn/learnjavascript) - Beginner course by Per Harald Borgen
+
