@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+                "file": "03 Java Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+                "file": "03 Java Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+                "file": "03 Java Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md"
+                "file": "03 Java Resources.md"
               }
             }
           }
@@ -187,28 +187,28 @@
   },
   "active": "58d79e8621ac8f16",
   "lastOpenFiles": [
+    "02 Javascript Resources.md",
+    "03 Java Resources.md",
+    "Career Things.md",
+    "01 HTML & CSS Resources.md",
+    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
+    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "Git & Github Resources.md",
     "Useful Github Repos.md",
     "Courses.md",
-    "Career Things.md",
     "Connie's own links.md",
     "README.md",
     "React Resources.md",
-    "02 Javascript Resources.md",
-    "01 HTML & CSS Resources.md",
     "Favourite Fonts.md",
     "Misc.md",
-    "03 Java Resources.md",
     "images/BodoniModa.png",
     "images/CormorantGaramond.png",
     "images/WorkSans.png",
     "images/Work Sans.png",
     "images/Inter.png",
     "images/SpaceGrotesk.png",
-    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
-    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "images/SCR-20230713-prfx.png",
     "Untitled.canvas",
     "2023-07-13.md",

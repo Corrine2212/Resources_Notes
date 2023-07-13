@@ -6,3 +6,5 @@
 - [Effective Java](https://kea.nu/files/textbooks/new/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf)
 
 
+### Learning notes:  
+- [My own notes](https://foil-bagpipe-84b.notion.site/Java-wk-11-14-f263e73948174e219160b25818794900?pvs=4)
