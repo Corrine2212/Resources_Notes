@@ -1,9 +1,9 @@
-[Quick Editor Shortcuts](https://tomgregory.com/edit-code-faster-in-intellij-idea/)
 
+# IntelliJ Shortcuts
 
 |Operation|Commands||
 |---|---|---|
-|Generate Constructor and getter & setters|Control + Enter||
+|Generate Constructor and getter & setters|control + Enter||
 |copy line down|command + D||
 |move line up or down|shift + opt + up or down||
 |open and search classes|command + o||
@@ -15,3 +15,7 @@
 |while on folder - creates new class etc.|command + n||
 |close all tabs|control + q (custom)||
 |cycle through navigation top bar|command + up||
+
+
+### Other Resources:  
+- [Quick Editor Shortcuts](https://tomgregory.com/edit-code-faster-in-intellij-idea/)

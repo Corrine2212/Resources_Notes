@@ -19,6 +19,6 @@
 
 
 ### Other Resources:  
-- [# A-Z Index of the **Apple macOS** command line](https://ss64.com/osx/)
+- [A-Z Index of the **Apple macOS** command line](https://ss64.com/osx/)
 
 - [Terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet) 

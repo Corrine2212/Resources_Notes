@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & Github Resources.md",
+                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git & Github Resources.md",
+                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git & Github Resources.md",
+                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git & Github Resources.md"
+                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md"
               }
             }
           }
@@ -187,6 +187,9 @@
   },
   "active": "58d79e8621ac8f16",
   "lastOpenFiles": [
+    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+    "Git & Github Resources.md",
     "Useful Github Repos.md",
     "Courses.md",
     "Career Things.md",
@@ -196,7 +199,6 @@
     "02 Javascript Resources.md",
     "01 HTML & CSS Resources.md",
     "Favourite Fonts.md",
-    "Git & Github Resources.md",
     "Misc.md",
     "03 Java Resources.md",
     "images/BodoniModa.png",
@@ -205,8 +207,6 @@
     "images/Work Sans.png",
     "images/Inter.png",
     "images/SpaceGrotesk.png",
-    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
-    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "images/SCR-20230713-prfx.png",
