@@ -1,15 +1,14 @@
 
-# Misc.
+# Misc
 
-[Videos](#Videos)
+
 
 ### Github readme examples:
 
 [Github Readme's](https://github.com/abhisheknaiidu/awesome-github-profile-readme#retro-)
 
 
-[Iconifier / Favicon](https://iconifier.net/index.php?iconified=20230505213141_owenwow.png)
-
+### Api's:
 
 [SpaceTraders API Doc](https://docs.spacetraders.io/)
 
@@ -38,6 +37,9 @@
 [Web Development Things ](https://www.youtube.com/watch?v=erEgovG9WBs&ab_channel=Fireship)
 
 
+### Other tools:
 
 Short code snippets: [30 Seconds of Code](https://www.30secondsofcode.org/)
+
+[Iconifier / Favicon](https://iconifier.net/index.php?iconified=20230505213141_owenwow.png)
 

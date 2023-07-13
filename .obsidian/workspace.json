@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML & CSS Resources.md",
+                "file": "Favourite Fonts.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML & CSS Resources.md",
+                "file": "Favourite Fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML & CSS Resources.md",
+                "file": "Favourite Fonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML & CSS Resources.md"
+                "file": "Favourite Fonts.md"
               }
             }
           }
@@ -200,12 +200,12 @@
   "active": "e10cad82cb42f07c",
   "lastOpenFiles": [
     "Github Resources.md",
+    "Misc.md",
+    "README.md",
+    "Useful Github Repos.md",
     "HTML & CSS Resources.md",
     "Favourite Fonts.md",
-    "README.md",
-    "Misc..md",
     "Java Resources.md",
-    "Useful Github Repos.md",
     "React Resources.md",
     "Untitled.canvas",
     "2023-07-13.md",
