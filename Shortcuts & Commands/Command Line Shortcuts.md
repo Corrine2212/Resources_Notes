@@ -2,6 +2,7 @@
 
 https://ss64.com/osx/
 
+[Terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 
 |Operation|Command|
 |---|---|

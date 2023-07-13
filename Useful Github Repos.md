@@ -6,3 +6,6 @@ CSS Framework, a collection of selectors that can be used to define globals styl
 
 [Github Cheat Sheet by Tim Green](https://github.com/tiimgreen/github-cheat-sheet)
 
+[Terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
+
+
