@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1a2e806856fe1d71",
+        "id": "5971880e92a33570",
         "type": "tabs",
         "children": [
           {
-            "id": "ddbb6659e66b0da0",
+            "id": "6bf5b52d461e69a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Useful Github Repos.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -28,21 +32,6 @@
         "id": "316e3b248062fda7",
         "type": "tabs",
         "children": [
-          {
-            "id": "e532c4c1f9c2b2a0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
           {
             "id": "6588000769064fc2",
             "type": "leaf",
@@ -65,13 +54,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ec8dce73aadfcddd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 266.5
   },
   "right": {
     "id": "ea46fae5aa19d2e4",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Useful Github Repos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Useful Github Repos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Useful Github Repos.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,10 +148,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7f577a8afc71b3cd",
+  "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "01 HTML & CSS Resources.md",
+    "Untitled.canvas",
     "Untitled Diagram.svg",
     "Git & Github Resources.md",
     "Useful Github Repos.md",
