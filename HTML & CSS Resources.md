@@ -17,7 +17,13 @@
 
 
 [HTML](#HTML)
-
+[CSS & Design](#CSS&Design)
+	[Boilerplates](#Boilerplates)
+	[Gradients](#Gradients)
+	[Tools & Guides](#Tools&Guides)
+	[Buttons](#Buttons)
+	[Box Shadows](#Box%20shadows)
+	
 
 
 ## HTML:
