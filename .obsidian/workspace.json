@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML & CSS Resources.md",
+                "file": "Misc..md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML & CSS Resources.md",
+                "file": "Misc..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML & CSS Resources.md",
+                "file": "Misc..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML & CSS Resources.md"
+                "file": "Misc..md"
               }
             }
           }
@@ -199,8 +199,12 @@
   },
   "active": "58d79e8621ac8f16",
   "lastOpenFiles": [
-    "Java Resources.md",
+    "Untitled.canvas",
     "Misc..md",
+    "2023-07-13.md",
+    "Java Resources.md",
+    "HTML & CSS Resources.md",
+    "HTML.md",
     "Github Resources.md",
     "Connie's own links.md",
     "Useful Github Repos.md",
@@ -211,7 +215,6 @@
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "README.md",
     "Favourite Fonts.md",
-    "HTML & CSS Resources.md",
     "React Resources.md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
     "PROJECT GUIDES & INSTRUCTIONS",
@@ -223,7 +226,6 @@
     "images/Spring screenshot.png",
     "2023-07-11.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Untitled Diagram.svg",
     "HTML & CSS"
   ]
