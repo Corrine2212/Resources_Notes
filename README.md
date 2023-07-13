@@ -5,11 +5,11 @@ A place for useful resources and learning notes.
 
 [HTML & CSS Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/HTML%20%26%20CSS%20Resources.md)
 
-[React Resources]()
+[React Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/React%20Resources.md)
 
 [Github Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/Github%20Resources.md)
 
-[Favourite Fonts]()
+[Favourite Fonts](https://github.com/Corrine2212/Resources_Notes/blob/main/Favourite%20Fonts.md)
 
 [Misc.](https://github.com/Corrine2212/Resources_Notes/blob/main/Misc..md)
 
@@ -20,7 +20,7 @@ A place for useful resources and learning notes.
 
 [Setting up Python project]() - work in progress
 
-[Setting up full stack Java & JS App ]() - work in progress
+[Setting up full stack Java & JS App](https://github.com/Corrine2212/Resources_Notes/blob/main/PROJECT%20GUIDES%20%26%20INSTRUCTIONS/Instructions%20for%20setting%20up%20Java%20%26%20JS%20App.md) - work in progress
 
 
 ### Keyboard shortcuts:

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses.md"
+                "file": "README.md"
               }
             }
           }
@@ -211,15 +211,15 @@
   },
   "active": "801e9dfac664bc62",
   "lastOpenFiles": [
+    "Github Resources.md",
+    "Courses.md",
+    "README.md",
     "HTML & CSS Resources.md",
     "Javascript Resources.md",
     "Connie's own links.md",
     "Career Things.md",
     "Misc.md",
-    "README.md",
-    "Courses.md",
     "Favourite Fonts.md",
-    "Github Resources.md",
     "React Resources.md",
     "Java Resources.md",
     "Useful Github Repos.md",
