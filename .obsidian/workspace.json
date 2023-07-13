@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Favourite Fonts.md",
+                "file": "01 HTML & CSS Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Favourite Fonts.md",
+                "file": "01 HTML & CSS Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Favourite Fonts.md",
+                "file": "01 HTML & CSS Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Favourite Fonts.md"
+                "file": "01 HTML & CSS Resources.md"
               }
             }
           }
@@ -187,6 +187,8 @@
   },
   "active": "58d79e8621ac8f16",
   "lastOpenFiles": [
+    "Favourite Fonts.md",
+    "images/BodoniModa.png",
     "images/CormorantGaramond.png",
     "Courses.md",
     "Connie's own links.md",
@@ -195,7 +197,6 @@
     "02 Javascript Resources.md",
     "Useful Github Repos.md",
     "01 HTML & CSS Resources.md",
-    "Favourite Fonts.md",
     "images/WorkSans.png",
     "images/Work Sans.png",
     "images/Inter.png",

@@ -31,7 +31,7 @@
 
 - [CSS Tricks](https://css-tricks.com/)
 
-- An extensive CSS reference with all the important properties and info to learn CSS from the basics - [CSS References](https://tympanus.net/codrops/css_reference/)
+- [CSS References](https://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important properties and info to learn CSS from the basics 
 
 -------------------
 
@@ -75,7 +75,7 @@
 
 - [UI Design Patterns ](https://ui-patterns.com/patterns)
 
-- [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/)- Profile img generator
+- [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/) - Profile img generator
 
 -------------------
 
@@ -117,12 +117,13 @@
 
 - [Typescale](https://typescale.com/) 
 
-- [Typewolf](https://www.typewolf.com/)- Trending in type
+- [Typewolf](https://www.typewolf.com/) - Trending in type
 
-- [Fonts In Use](https://fontsinuse.com/)- Archive of typography
+- [Fonts In Use](https://fontsinuse.com/) - Archive of typography
 
-- [Fonts in the Wild](https://www.fontsinthewild.com/)- Type's used in real sites
+- [Fonts in the Wild](https://www.fontsinthewild.com/) - Type's used in real sites
 
+- [[Favourite Fonts]]()
 
 -------------------
 

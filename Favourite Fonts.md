@@ -126,7 +126,6 @@ font-family: 'Cormorant Garamond', serif;
 
 ![Bodoni Moda](./images/BodoniModa.png)
 
-
 ```
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -142,3 +141,5 @@ font-family: 'Cormorant Garamond', serif;
 ```
 font-family: 'Bodoni Moda', serif;
 ```
+
+-----
