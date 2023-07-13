@@ -1,5 +1,6 @@
 # HTML & CSS Resources
 
+## Obsidian TOC:
 - [[#HTML:|HTML:]]
 - [[#CSS & Design:|CSS & Design:]]
 	- [[#CSS & Design:#Boilerplates:|Boilerplates:]]
@@ -16,6 +17,8 @@
 	- [[#CSS & Design:#Learning notes:|Learning notes:]]
 
 
+
+## Table of Contents:
 [HTML](#HTML)
 [CSS & Design](#CSS&Design)
 	[Boilerplates](#Boilerplates)
@@ -23,6 +26,13 @@
 	[Tools & Guides](#Tools&Guides)
 	[Buttons](#Buttons)
 	[Box Shadows](#Box%20shadows)
+	[Audio Elements](#Audio%20Elements)
+	[Color-palettes](#Color-palettes)
+	[Typography](#Typography)
+	[Frontend Practice](#Frontend%20Practice)
+	[Design Inspo](#Design%20Inspo)
+	[Fun Things](#Fun%20Things)
+	
 	
 
 
