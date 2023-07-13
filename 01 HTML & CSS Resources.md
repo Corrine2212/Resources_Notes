@@ -115,7 +115,13 @@
 
 - [Archtype](https://archetypeapp.com/#)
 
-- [Typescale](https://typescale.com/)
+- [Typescale](https://typescale.com/) 
+
+- [Typewolf](https://www.typewolf.com/)- Trending in type
+
+[Fonts In Use](https://fontsinuse.com/)- Archive of typography
+
+[Fonts in the Wild](https://www.fontsinthewild.com/)- Type's used in real sites
 
 
 -------------------
