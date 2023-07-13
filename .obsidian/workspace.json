@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a228f1dec9284e97",
+        "id": "bc6f20d021ac30e4",
         "type": "tabs",
         "children": [
           {
-            "id": "2937c6172f7a1e7b",
+            "id": "8044d2d33e2d744c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b671602a624a7b31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58d79e8621ac8f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career Things.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Career Things.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,14 +152,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "58d79e8621ac8f16",
+  "active": "8044d2d33e2d744c",
   "lastOpenFiles": [
-    "03 Java Resources.md",
+    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+    "Courses.md",
     "Career Things.md",
+    "03 Java Resources.md",
     "02 Javascript Resources.md",
     "01 HTML & CSS Resources.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
-    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "Useful Github Repos.md",
@@ -201,7 +169,6 @@
     "Misc.md",
     "Git & Github Resources.md",
     "Favourite Fonts.md",
-    "Courses.md",
     "Connie's own links.md",
     "images/BodoniModa.png",
     "images/CormorantGaramond.png",
