@@ -1,5 +1,20 @@
 # HTML & CSS Resources
 
+- [[#HTML:|HTML:]]
+- [[#CSS & Design:|CSS & Design:]]
+	- [[#CSS & Design:#Boilerplates:|Boilerplates:]]
+	- [[#CSS & Design:#Gradients:|Gradients:]]
+	- [[#CSS & Design:#Tools & Guides:|Tools & Guides:]]
+	- [[#CSS & Design:#Buttons:|Buttons:]]
+	- [[#CSS & Design:#Box shadows:|Box shadows:]]
+	- [[#CSS & Design:#Audio Elements|Audio Elements]]
+	- [[#CSS & Design:#Color-palettes:|Color-palettes:]]
+	- [[#CSS & Design:#Typography:|Typography:]]
+	- [[#CSS & Design:#Frontend Practice:|Frontend Practice:]]
+	- [[#CSS & Design:#Design Inspo:|Design Inspo:]]
+	- [[#CSS & Design:#Fun things:|Fun things:]]
+	- [[#CSS & Design:#Learning notes:|Learning notes:]]
+
 
 ## HTML:
 

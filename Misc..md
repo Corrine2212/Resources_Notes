@@ -20,3 +20,8 @@
 
 Short code snippets: [30 Seconds of Code](https://www.30secondsofcode.org/)
 
+
+
+### Reading Materials:
+
+[Grokking Algorithms]([https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf))
