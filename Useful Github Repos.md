@@ -8,4 +8,6 @@ CSS Framework, a collection of selectors that can be used to define globals styl
 
 [Terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 
+[LinkedIn Skills Quiz](https://linkedin-faq.github.io/skill-assessments-quizzes/)
+
 

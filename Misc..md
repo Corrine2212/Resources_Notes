@@ -16,3 +16,8 @@
 
 [Python, JS, C, C++, Java](https://pythontutor.com/visualize.html#mode=edit)
 
+
+
+Short code snippets: [30 Seconds of Code](https://www.30secondsofcode.org/)
+
+	
