@@ -1,4 +1,4 @@
-# Command Line Shortcuts
+# Terminal Shortcuts
 
 https://ss64.com/osx/
 

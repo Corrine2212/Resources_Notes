@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
+                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career Things.md",
+                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career Things.md",
+                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career Things.md",
+                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career Things.md"
+                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md"
               }
             }
           }
@@ -211,13 +211,14 @@
   },
   "active": "801e9dfac664bc62",
   "lastOpenFiles": [
+    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "README.md",
+    "Career Things.md",
     "Github Resources.md",
     "Courses.md",
     "HTML & CSS Resources.md",
     "Javascript Resources.md",
     "Connie's own links.md",
-    "Career Things.md",
     "Misc.md",
     "Favourite Fonts.md",
     "React Resources.md",
@@ -226,10 +227,9 @@
     "Untitled.canvas",
     "2023-07-13.md",
     "HTML.md",
-    "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
+    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
-    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
     "PROJECT GUIDES & INSTRUCTIONS",
     "images",
