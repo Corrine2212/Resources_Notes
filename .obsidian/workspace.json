@@ -59,8 +59,12 @@
             "id": "801e9dfac664bc62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -143,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses.md"
+              }
             }
           }
         ]
