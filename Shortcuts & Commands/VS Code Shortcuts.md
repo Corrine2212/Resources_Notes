@@ -1,5 +1,14 @@
 # VS Code Shortcuts
 
+### General
+
+
+### Editing
+
+
+### navigation
+
+
 |Operation|Command|
 |---|---|
 |open command palette|CMD + SHIFT + P|
@@ -10,7 +19,8 @@
 |open file finder|CMD + P|
 |deletes line|CMD + BACKSPACE|
 |move cursor to start or end of line|CMD + RIGHT/LEFT|
-|||
+|search files | CMD + P |
+|search extensions | CMD + P |
 
 
 ### Custom Shortcuts:
@@ -18,7 +28,7 @@
 |Operation|Command|
 |---|---|
 | close activity bar | OPT + CMD + A | 
-| close explorer bar | CMD + B | 
+| toggle sidebar | CMD + B | 
 
 
 
