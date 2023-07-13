@@ -27,6 +27,8 @@ font-family: 'Reem Kufi', sans-serif;
 
 ### Accessibility Friendly Fonts:
 
+### San Serif Fonts:
+
 #### [Inter](https://fonts.google.com/specimen/Inter)
 
 ![Inter](./images/Inter.png)
@@ -51,6 +53,8 @@ font-family: 'Inter', sans-serif;
 
 #### [Space Grotesk]()
 
+
+
 ![Space Grotesk](./images/SpaceGrotesk.png)
 
 ```
@@ -69,6 +73,7 @@ font-family: 'Inter', sans-serif;
 font-family: 'Space Grotesk', sans-serif;
 ```
 
+-----
 
 #### [Work Sans](https://fonts.google.com/specimen/Work+Sans?preview.text=Work%20Sans&preview.text_type=custom&query=work+sans)
 
@@ -89,3 +94,13 @@ font-family: 'Space Grotesk', sans-serif;
 ```
 font-family: 'Work Sans', sans-serif;
 ```
+
+
+### Old style serifs:
+
+Garamond
+
+Bodoni
+
+
+
