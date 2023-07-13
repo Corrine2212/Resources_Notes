@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Git & Github Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Git & Github Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Git & Github Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Git & Github Resources.md"
               }
             }
           }
@@ -188,17 +188,17 @@
   "active": "58d79e8621ac8f16",
   "lastOpenFiles": [
     "Useful Github Repos.md",
+    "Courses.md",
     "Career Things.md",
     "Connie's own links.md",
-    "Courses.md",
+    "README.md",
+    "React Resources.md",
+    "02 Javascript Resources.md",
+    "01 HTML & CSS Resources.md",
     "Favourite Fonts.md",
     "Git & Github Resources.md",
     "Misc.md",
-    "React Resources.md",
-    "README.md",
     "03 Java Resources.md",
-    "02 Javascript Resources.md",
-    "01 HTML & CSS Resources.md",
     "images/BodoniModa.png",
     "images/CormorantGaramond.png",
     "images/WorkSans.png",

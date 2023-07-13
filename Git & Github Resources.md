@@ -1,6 +1,6 @@
 # Git & Github Resources
 
-- [Git Explorer](https://gitexplorer.com/)
+- [Git Command Explorer](https://gitexplorer.com/)
 
 - [Learn Git Branching](https://learngitbranching.js.org/)
 

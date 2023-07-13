@@ -8,7 +8,7 @@
 
 - [Kevin Powell CSS](https://www.kevinpowell.co/courses/) - Free and paid courses
 
-- [Learn HTML & CSS](https://scrimba.com/learn/htmlandcss)- - Beginner course by Per Harald Borgen
+- [Learn HTML & CSS](https://scrimba.com/learn/htmlandcss) - Beginner course by Per Harald Borgen
 
 - [Learn Javascript](https://scrimba.com/learn/learnjavascript) - Beginner course by Per Harald Borgen
 
