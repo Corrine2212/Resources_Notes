@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b671602a624a7b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
+                "file": "Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
+                "file": "Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Command Line Shortcuts.md"
+                "file": "Courses.md"
               }
             }
           }
@@ -173,8 +185,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2937c6172f7a1e7b",
+  "active": "b671602a624a7b31",
   "lastOpenFiles": [
+    "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
+    "Courses.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
@@ -189,7 +203,6 @@
     "PROJECT GUIDES & INSTRUCTIONS",
     "images",
     "images/ReemKufi.png",
-    "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
     "Career Things.md",
     "Connie's own links.md",
     "SHORTCUTS & COMMANDS",
