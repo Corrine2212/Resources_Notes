@@ -27,7 +27,7 @@ A place for useful resources and learning notes.
 
 [IntelliJ Shortcuts](https://github.com/Corrine2212/Resources_Notes/blob/main/IntelliJ%20Shortcuts.md)
 
-[VS Code Shortcuts](https://github.com/Corrine2212/Resources_Notes/blob/main/VS%20Code%20Shortcuts.md) - incomplete
+[VS Code Shortcuts](https://github.com/Corrine2212/Resources_Notes/blob/main/Shortcuts%20%26%20Commands/VS%20Code%20Shortcuts.md) - incomplete
 
 
 [Career Things](https://github.com/Corrine2212/Resources_Notes/blob/main/Career%20Things.md)
