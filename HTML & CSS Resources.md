@@ -31,6 +31,8 @@
 
 [CSS Tricks](https://css-tricks.com/)
 
+An extensive CSS reference with all the important properties and info to learn CSS from the basics - [CSS References](https://tympanus.net/codrops/css_reference/)
+
 -------------------
 
 ### Boilerplates:

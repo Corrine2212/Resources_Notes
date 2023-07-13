@@ -1,5 +1,11 @@
 # Javascript Resources
 
+[Free Javascript Resources](https://www.java5cript.com/)
+
+[Array Operations](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
+
+[Promises](https://www.sohamkamani.com/javascript/promises/)
+
 
 
 
