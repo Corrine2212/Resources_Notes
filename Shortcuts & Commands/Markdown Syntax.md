@@ -12,7 +12,7 @@ https://www.markdownguide.org/basic-syntax/
 | ### | `<h3></h3>`  | Heading3 |
 | #### | `<h4></h4>`  | Heading4 |
 | ##### | `<h5></h5>` | Heading5 |
-| ## | `<h2></h2>` | Heading2 |
+
 
 
 ### Line breaks:
@@ -26,3 +26,10 @@ And this is the second line.</p>
 ```
 
 
+### Emphasis:
+
+| Markdown | HTML| Output |
+|---|---|---|
+| `**bold**` | `<strong>bold</strong>` |** bold** |
+| `*italics*` | `<em>italics</em>` | *italics* |
+| `***bold and italic***`| <em><strong>bold and italic</strong></em> |***bold and italic***
