@@ -3,42 +3,37 @@
 
 
 ### Github readme examples:  
-[Github Readme's](https://github.com/abhisheknaiidu/awesome-github-profile-readme#retro-)
+- [Github Readme's](https://github.com/abhisheknaiidu/awesome-github-profile-readme#retro-)
 
 
 ### Api's:  
-[SpaceTraders API Doc](https://docs.spacetraders.io/)
+- [SpaceTraders API Doc](https://docs.spacetraders.io/)
 
 
 ### Code Visualisers:  
-[Python, JS, C, C++, Java](https://pythontutor.com/visualize.html#mode=edit)
+- [Python, JS, C, C++, Java](https://pythontutor.com/visualize.html#mode=edit)- creates a visual re
 
 
-### Roadmaps:
-
-[Roadmap](https://roadmap.sh/)
-
-### System Designer:
-
-[DesignFirst: System Designer](https://designfirst.io/systemdesigner/)
+### Roadmaps:  
+- [Roadmap](https://roadmap.sh/)
 
 
-### Reading Materials:
-
-[Grokking Algorithms]([https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf))
-
-
-### Videos:
-
-[100+ Computer Science Concepts](https://www.youtube.com/watch?v=-uleG_Vecis&t=708s&ab_channel=Fireship)
+### System Designer:  
+- [DesignFirst: System Designer](https://designfirst.io/systemdesigner/)
 
 
-[Web Development Things ](https://www.youtube.com/watch?v=erEgovG9WBs&ab_channel=Fireship)
+### Reading Materials:   
+- [Grokking Algorithms]([https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf))
 
 
-### Other tools:
+### Videos:  
+- [100+ Computer Science Concepts](https://www.youtube.com/watch?v=-uleG_Vecis&t=708s&ab_channel=Fireship)
 
-Short code snippets: [30 Seconds of Code](https://www.30secondsofcode.org/)
+- [Web Development Things ](https://www.youtube.com/watch?v=erEgovG9WBs&ab_channel=Fireship)
 
-[Iconifier / Favicon](https://iconifier.net/index.php?iconified=20230505213141_owenwow.png)
+
+### Other tools:  
+[30 Seconds of Code](https://www.30secondsofcode.org/)- Short code snippets
+
+[Iconifier / Favicon](https://iconifier.net/index.php?iconified=20230505213141_owenwow.png) - generates various file sizes suitable for icons
 
