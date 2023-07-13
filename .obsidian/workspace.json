@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Resources.md",
+                "file": "HTML & CSS Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Resources.md",
+                "file": "HTML & CSS Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Resources.md",
+                "file": "HTML & CSS Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Resources.md"
+                "file": "HTML & CSS Resources.md"
               }
             }
           }
@@ -199,11 +199,11 @@
   },
   "active": "58d79e8621ac8f16",
   "lastOpenFiles": [
+    "Java Resources.md",
     "Misc..md",
     "Github Resources.md",
     "Connie's own links.md",
     "Useful Github Repos.md",
-    "Java Resources.md",
     "Courses.md",
     "SHORTCUTS & COMMANDS/Command Line Shortcuts.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
