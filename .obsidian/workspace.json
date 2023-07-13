@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career Things.md",
+                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career Things.md",
+                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career Things.md",
+                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career Things.md"
+                "file": "SHORTCUTS & COMMANDS/Markdown Syntax.md"
               }
             }
           }
@@ -211,20 +211,20 @@
   },
   "active": "801e9dfac664bc62",
   "lastOpenFiles": [
+    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+    "Career Things.md",
+    "Favourite Fonts.md",
+    "Courses.md",
+    "Misc.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "images/SCR-20230713-prfx.png",
-    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
-    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "README.md",
-    "Career Things.md",
     "Github Resources.md",
-    "Courses.md",
     "HTML & CSS Resources.md",
     "Javascript Resources.md",
     "Connie's own links.md",
-    "Misc.md",
-    "Favourite Fonts.md",
     "React Resources.md",
     "Java Resources.md",
     "Useful Github Repos.md",

@@ -2,20 +2,15 @@
 # Misc
 
 
-
-### Github readme examples:
-
+### Github readme examples:  
 [Github Readme's](https://github.com/abhisheknaiidu/awesome-github-profile-readme#retro-)
 
 
-### Api's:
-
+### Api's:  
 [SpaceTraders API Doc](https://docs.spacetraders.io/)
 
 
-
-### Code Visualisers:
-
+### Code Visualisers:  
 [Python, JS, C, C++, Java](https://pythontutor.com/visualize.html#mode=edit)
 
 

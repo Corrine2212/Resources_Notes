@@ -1,4 +1,5 @@
 # Markdown Syntax
+
 - [Markdown Syntax](#markdown-syntax)
     - [Headings:](#headings)
     - [Line breaks:](#line-breaks)

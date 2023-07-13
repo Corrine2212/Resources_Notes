@@ -4,4 +4,7 @@
 
 
 
-### Codeclan Student Hub
+### Codeclan:  
+- [Codeclan Student Hub](https://codeclan.com/students/)
+- [Codeclan Job Search Hub](https://jobs.codeclan.com/#)
+
