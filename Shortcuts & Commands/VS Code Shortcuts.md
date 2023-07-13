@@ -7,6 +7,7 @@
 |open command palette|CMD + SHIFT + P|
 |open file finder|CMD + P|
 
+
 ### Editing
 
 |Operation|Command|
@@ -33,7 +34,9 @@
 |---|---|
 | close activity bar | OPT + CMD + A | 
 | toggle sidebar | CMD + B | 
+| switch from editor to terminal |CTRL + \` |
 
+![editor to terminal settings](./../images/SCR-20230713-prfx.png)
 
 
 ---------------
