@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+                "file": "Courses.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+                "file": "Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+                "file": "Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/Terminal Shortcuts.md"
+                "file": "Courses.md"
               }
             }
           }
@@ -187,23 +187,23 @@
   },
   "active": "58d79e8621ac8f16",
   "lastOpenFiles": [
-    "Useful Github Repos.md",
+    "Connie's own links.md",
+    "Career Things.md",
     "01 HTML & CSS Resources.md",
     "Github Resources.md",
+    "Misc.md",
+    "React Resources.md",
+    "README.md",
+    "Useful Github Repos.md",
+    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "03 Java Resources.md",
     "02 Javascript Resources.md",
-    "Career Things.md",
-    "Misc.md",
-    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "Favourite Fonts.md",
     "Courses.md",
-    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "images/SCR-20230713-prfx.png",
-    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
-    "README.md",
-    "Connie's own links.md",
-    "React Resources.md",
     "Untitled.canvas",
     "2023-07-13.md",
     "HTML.md",
