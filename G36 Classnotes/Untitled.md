@@ -126,10 +126,7 @@ git status
 
 Oh look, git is telling us that there are new files and that they are not staged. So let's now do that.
 
-
 Prepare the file to be committed by adding it to the staging area
-
-  
 
 ```
 
@@ -139,11 +136,7 @@ git status
 
 ```
 
-  
-
 We've added one file, but the other is still not staged. If necessary, we can add **all** files at once.
-
-  
 
 ```
 
@@ -151,11 +144,7 @@ git add --all
 
 ```
 
-  
-
 See the status of the files
-
-  
 
 ```
 
@@ -163,15 +152,9 @@ git status
 
 ```
 
-  
-
 Git now tells us that the files are staged and ready to be committed. Let's do that now.
 
-  
-
 Commit the changes
-
-  
 
 ```
 
@@ -179,19 +162,13 @@ git commit -m "Initial commit"
 
 ```
 
-  
-
 ```
 
 git log
 
 ```
 
-  
-
 Add thunderbolt to pikachu, flamethrower to charmander
-
-  
 
 ```
 
@@ -199,11 +176,7 @@ code .
 
 ```
 
-  
-
 It's always best to call git status before git add. We don't want to accidentally add any files which we didn't mean to change.
-
-  
 
 ```
 
@@ -211,15 +184,9 @@ git status
 
 ```
 
-  
-
 Git now shows that there are files that were modified.
 
-  
-
 Stage the changes.
-
-  
 
 ```
 
@@ -227,15 +194,9 @@ git add --all
 
 ```
 
-  
-
-NOTE: We are staging CHANGES to the files, not the files themselves.
-
-  
+> **NOTE: We are staging CHANGES to the files, not the files themselves.**
 
 Commit the changes
-
-  
 
 ```
 
@@ -243,63 +204,29 @@ git commit -m "adds basic moves"
 
 ```
 
-  
-
 We should always try to make regular, small commits with descriptive messages.
 
-  
-
-## Distributing Our Code
-
-  
-
+## Distributing Our Code:  
 It's important to understand that with Git, we have a local copy of code (like we just made) but there is also remote copies of code that we can "pull" down or "push up" to.
-
-  
 
 There are many ways to host remote Git repositories; but one of the most common ways is to use [GitHub](http://github.com).
 
-  
-
 This is a place to store repositories remotely, acting as a "central" copy of the source code where all participating developers can "push" their code.
-
-  
 
 This means that we an pull down a copy of open source code and contribute to it.
 
-  
-
-> Have a look at some of the cool projects on Github. Git itself is on there, and the Ruby language!
-
-  
+> **Have a look at some of the cool projects on Github. Git itself is on there, and the Ruby language!**
 
 The great thing about this is that if our laptop blows up, we can pull down a clean working version of our code at any time.
 
-  
-
-### Adding our Repository to GitHub
-
-  
-
+### Adding our Repository to GitHub   
 If we want to add a remote for our repository, our first step is to log into GitHub, and [create a new, empty repository](https://github.com/new).
-
-  
 
 Name your repository, and (optionally) give it a description. *DON'T* initialise the repository with a README. If you accidentally do - no need to panic; just delete the new repository on GitHub and create one again (skipping the README this time!)
 
-  
-
-> Emphasise that students should choose a meaningful name for their repos that accurately describes their work. (Rather than "Codeclan Homework", for example.) Stress that it is likely that future employers will want to see their Github accounts, so well-named repos are really helpful.
-
-  
-
 Copy the SSH path to your clipboard, and then use it to add a new remote to your Git repository:
 
-  
-
-> NOTE: Make sure it's the SSH link (not HTTPS) otherwise you will always be prompted for your Github password
-
-  
+> **NOTE: Make sure it's the SSH link (not HTTPS) otherwise you will always be prompted for your Github password**
 
 ```
 
@@ -307,35 +234,22 @@ git remote add origin git@github.com:USERNAME/REPOSITORYNAME.git
 
 ```
 
-  
-
 Note that "origin" is just a name - we could call it anything. Origin is just a convention.
-
-  
 
 When you want to send your local code to GitHub, push it with `git push origin main`. This will push all the committed code in the local main branch (we'll cover branches later) to the remote called '[origin](http://stackoverflow.com/questions/9529497/what-is-origin-in-git)'
 
   
 
-## Updating Remote Repositories
-
-  
-
+## Updating Remote Repositories   
 When we make changes to files, these alterations are not automatically saved. We need to "push" our changes to out remote branch when we are ready.
 
-  
-
 Let's add another move to Pikachu.
-
-  
 
 ```
 
 code .
 
 ```
-
-  
 
 ```
 
@@ -375,19 +289,11 @@ git push
 
 ```
 
-  
-
-And our lives are that much easier.
-
-  
+And our lives are that much easier.  
 
 Note: You will have to do this for each new repository you create.
 
-  
-
 Similarly we can pull down other people's changes with the "pull command"
-
-  
 
 ```
 
@@ -395,19 +301,10 @@ git pull
 
 ```
 
-  
-
-### Creating a local copy of an existing GitHub repository
-
-  
-
+### Creating a local copy of an existing GitHub repository   
 If you want to make a local copy of a repository that is already on GitHub, you will use the "clone" command.
 
-  
-
 Open the repository you want to clone in GitHub, and copy the SSH path to your clipboard, and then use it to clone the remote to a new directory on your computer (ensure to not be in a directory already tracked by Git):
-
-  
 
 ```
 
@@ -415,15 +312,8 @@ git clone git@github.com:USERNAME/REPOSITORYNAME.git
 
 ```
 
-  
-
-### Summary
-
-  
-
+### Summary   
 We've learned how to initialise a Git repository:
-
-  
 
 ```
 
@@ -431,11 +321,7 @@ git init
 
 ```
 
-  
-
 We've learned how to add files to our staging area:
-
-  
 
 ```
 
@@ -483,17 +369,10 @@ git log
 
   
 
-## Further Investigation
-
-  
-
+## Further Investigation   
 We'll leave you to investigate other Git resources, cheat-sheets, and tutorials. Please find out what the ".gitignore" file does.
 
-  
-
 GitHub does give you a GUI interface you can install, but we're going to work with the command-line interface for the most part, because we may not always have a GUI available to us.
-
-  
 
 * [Git Docs](http://git-scm.com/docs/)
 
