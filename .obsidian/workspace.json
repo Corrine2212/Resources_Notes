@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Github Repos.md",
+                "file": "03 Java Resources.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Github Repos.md",
+                "file": "03 Java Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Github Repos.md",
+                "file": "03 Java Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Github Repos.md"
+                "file": "03 Java Resources.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
+    "Useful Github Repos.md",
     "G36 Classnotes/Untitled.md",
     "G36 Classnotes/Wk 1",
-    "Useful Github Repos.md",
     "G36 Classnotes",
     "01 HTML & CSS Resources.md",
     "Untitled.canvas",
