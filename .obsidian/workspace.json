@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connie's own links.md",
+                "file": "Useful VSC Extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connie's own links.md",
+                "file": "Useful VSC Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connie's own links.md",
+                "file": "Useful VSC Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connie's own links.md"
+                "file": "Useful VSC Extensions.md"
               }
             }
           }
@@ -162,17 +162,25 @@
   },
   "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
-    "Misc.md",
-    "03 Java Resources.md",
     "Useful Apps.md",
+    "Useful VSC Extensions.md",
+    "Useful Github Repos.md",
+    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
+    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+    "02 Javascript Resources.md",
+    "03 Java Resources.md",
+    "Career Things.md",
+    "Connie's own links.md",
+    "Courses.md",
+    "Favourite Fonts.md",
+    "Misc.md",
     "01 HTML & CSS Resources.md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
     "React Resources.md",
     "README.md",
-    "Useful Github Repos.md",
-    "Useful VSC Extensions.md",
     "().md",
-    "Connie's own links.md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
     "G36 Classnotes/Untitled.md",
     "G36 Classnotes/Wk 1",
@@ -180,14 +188,6 @@
     "Untitled.canvas",
     "Untitled Diagram.svg",
     "Git & Github Resources.md",
-    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
-    "Courses.md",
-    "Career Things.md",
-    "02 Javascript Resources.md",
-    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
-    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
-    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
-    "Favourite Fonts.md",
     "images/BodoniModa.png",
     "images/CormorantGaramond.png",
     "images/WorkSans.png",

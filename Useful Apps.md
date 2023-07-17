@@ -17,6 +17,11 @@ Free
 Free   
 macOS and ios only
 
+### [Canva](https://www.canva.com/)- Free design tool
+Free and paid  
+macOS, ios, android and windows  
+
+
 -----------------
 
 ## Tools:

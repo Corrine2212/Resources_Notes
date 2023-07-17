@@ -2,9 +2,9 @@
 
 - [Portfolio](https://corrine2212.github.io/personal-portfolio/) - work in progress
 
-- [Linkedin](https://www.linkedin.com/in/corrine-sing-a27735b2/)
+- [Linkedin](https://www.linkedin.com/in/corrine-sing-a27735b2/) - work experience
 
-- [Github](https://github.com/codeclan/g36_classnotes) - projects saved h
+- [Github](https://github.com/codeclan/g36_classnotes) - projects saved here
 
 - [Codepen](https://codepen.io/Corrine2212) - showcase HTML, CSS and JavaScript code snippets
 
