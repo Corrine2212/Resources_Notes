@@ -6,7 +6,7 @@
 Free and paid version  
 macOS and ios only
 
-### [Litur]() - a color palette and picker app
+### [Litur](https://litur.app/) - a color palette and picker app
 Paid   
 macOS and ios only
 
@@ -30,7 +30,11 @@ macOS only
 - scrolling screenshots
 - pixelate areas of your screenshot
 
-### Diagram
+## Diagram:
+### [Draw.io](https://www.drawio.com/)
+Free  
+Desktop and browser app 
+
 
 ## Window management:
 
