@@ -49,3 +49,9 @@ macOS only
 ### [iTerm2](https://iterm2.com/)- a replacement for Terminal
 Free   
 macOS only
+
+
+## Others:
+### [Openports](https://openports.app/) - List, browse, copy, terminate or kill open ports
+Free
+macOS only
