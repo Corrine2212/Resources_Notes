@@ -28,6 +28,8 @@
 - [Web Development Things ](https://www.youtube.com/watch?v=erEgovG9WBs&ab_channel=Fireship)
 
 
+### Flashcards:
+- [Quizlet](https://quizlet.com/latest)
 
 
 ### Other tools:  
