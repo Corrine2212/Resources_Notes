@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connie's own links.md",
+                "file": "Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connie's own links.md",
+                "file": "Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connie's own links.md",
+                "file": "Misc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connie's own links.md"
+                "file": "Misc.md"
               }
             }
           }
@@ -162,19 +162,19 @@
   },
   "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
-    "Useful Apps.md",
+    "README.md",
     "01 HTML & CSS Resources.md",
-    "Misc.md",
-    "03 Java Resources.md",
     "02 Javascript Resources.md",
-    "Courses.md",
-    "Connie's own links.md",
+    "03 Java Resources.md",
     "Career Things.md",
+    "Connie's own links.md",
+    "Courses.md",
     "Favourite Fonts.md",
     "Git & Github Resources.md",
+    "Misc.md",
+    "Useful Apps.md",
     "Useful Github Repos.md",
     "Useful VSC Extensions.md",
-    "README.md",
     "React Resources.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",

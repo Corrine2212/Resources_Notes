@@ -25,6 +25,8 @@
 
 - [Effective Java](https://kea.nu/files/textbooks/new/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf) referenced in [[03 Java Resources]]
 
+- [Programming Vocab](https://www.programmingforbeginnersbook.com/blog/expand_your_programming_vocabulary/)
+
 
 ### Videos:  
 - [100+ Computer Science Concepts](https://www.youtube.com/watch?v=-uleG_Vecis&t=708s&ab_channel=Fireship)
