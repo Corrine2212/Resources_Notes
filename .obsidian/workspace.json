@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "effd097a77797bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful VSC Extensions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc.md",
+                "file": "Useful VSC Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc.md",
+                "file": "Useful VSC Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc.md"
+                "file": "Useful VSC Extensions.md"
               }
             }
           }
@@ -148,8 +161,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6bf5b52d461e69a1",
+  "active": "effd097a77797bbd",
   "lastOpenFiles": [
+    "Connie's own links.md",
+    "Useful VSC Extensions.md",
+    "Misc.md",
     "React Resources.md",
     "README.md",
     "Useful Github Repos.md",
@@ -162,7 +178,6 @@
     "Untitled.canvas",
     "Untitled Diagram.svg",
     "Git & Github Resources.md",
-    "Connie's own links.md",
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "Courses.md",
     "Career Things.md",
@@ -170,7 +185,6 @@
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
-    "Misc.md",
     "Favourite Fonts.md",
     "images/BodoniModa.png",
     "images/CormorantGaramond.png",
