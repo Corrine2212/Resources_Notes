@@ -1,5 +1,5 @@
 
-# Misc
+# Misc.
 
 ### Api's:  
 - [SpaceTraders API Doc](https://docs.spacetraders.io/)
@@ -19,7 +19,7 @@
 
 
 ### Reading Materials:   
-- [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+- [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf) - teaches you how to apply common algorithms to the practical problems you face every day as a programmer
 
 - [Head First Java](https://www.pdfiles.net/storage/Books/headfirst/Head_First_Java_A_Brain-Friendly_Guide.pdf) referenced in [[03 Java Resources]]
 

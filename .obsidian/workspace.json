@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 HTML & CSS Resources.md",
+                "file": "Useful Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 HTML & CSS Resources.md",
+                "file": "Useful Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 HTML & CSS Resources.md",
+                "file": "Useful Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 HTML & CSS Resources.md"
+                "file": "Useful Apps.md"
               }
             }
           }
@@ -162,12 +162,15 @@
   },
   "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
+    "01 HTML & CSS Resources.md",
+    "Misc.md",
+    "03 Java Resources.md",
+    "02 Javascript Resources.md",
     "Courses.md",
     "Connie's own links.md",
     "Career Things.md",
     "Favourite Fonts.md",
     "Git & Github Resources.md",
-    "Misc.md",
     "Useful Github Repos.md",
     "Useful VSC Extensions.md",
     "Useful Apps.md",
@@ -177,9 +180,6 @@
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
-    "02 Javascript Resources.md",
-    "03 Java Resources.md",
-    "01 HTML & CSS Resources.md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
     "().md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
