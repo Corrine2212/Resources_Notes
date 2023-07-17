@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Java Resources.md",
+                "file": "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Java Resources.md",
+                "file": "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Java Resources.md",
+                "file": "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Java Resources.md"
+                "file": "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
+    "03 Java Resources.md",
     "Useful Github Repos.md",
     "G36 Classnotes/Untitled.md",
     "G36 Classnotes/Wk 1",
@@ -163,7 +164,6 @@
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "Courses.md",
     "Career Things.md",
-    "03 Java Resources.md",
     "02 Javascript Resources.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
