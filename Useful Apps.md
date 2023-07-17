@@ -50,7 +50,7 @@ Desktop and browser app
 
 -----------------
 
-## Window management:
+## Window Management:
 
 ### [Rectangle](https://rectangleapp.com/) - window management app   
 Free  
@@ -61,7 +61,7 @@ macOS only
 
 ## Terminal:   
 
-### [iTerm2](https://iterm2.com/)- a replacement for Terminal   
+### [iTerm2](https://iterm2.com/)- a replacement for macOS Terminal   
 Free   
 macOS only
 
