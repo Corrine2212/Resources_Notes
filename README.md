@@ -16,7 +16,7 @@ A place for useful resources and learning notes.
 
 - [Courses](https://github.com/Corrine2212/Resources_Notes/blob/main/Courses.md)
 
-- [Misc.](https://github.com/Corrine2212/Resources_Notes/blob/main/Misc..md)
+- [Misc.](https://github.com/Corrine2212/Resources_Notes/blob/main/Misc.md)
 
 - [Career Things](https://github.com/Corrine2212/Resources_Notes/blob/main/Career%20Things.md)
 

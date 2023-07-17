@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03 Java Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Misc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Misc.md"
               }
             }
           }
@@ -161,22 +160,23 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "effd097a77797bbd",
+  "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
+    "Misc.md",
+    "03 Java Resources.md",
     "Useful Apps.md",
+    "01 HTML & CSS Resources.md",
+    "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
+    "React Resources.md",
+    "README.md",
     "Useful Github Repos.md",
     "Useful VSC Extensions.md",
     "().md",
     "Connie's own links.md",
-    "Misc.md",
-    "React Resources.md",
-    "README.md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
-    "03 Java Resources.md",
     "G36 Classnotes/Untitled.md",
     "G36 Classnotes/Wk 1",
     "G36 Classnotes",
-    "01 HTML & CSS Resources.md",
     "Untitled.canvas",
     "Untitled Diagram.svg",
     "Git & Github Resources.md",
@@ -197,7 +197,6 @@
     "images/SCR-20230713-prfx.png",
     "2023-07-13.md",
     "HTML.md",
-    "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
     "PROJECT GUIDES & INSTRUCTIONS",
     "images",
     "images/ReemKufi.png",
