@@ -85,5 +85,7 @@ MacOs, ios, android, Windows
 Free
 macOS only
 
+### [Raycast]() - 
+
 
 -----------------
