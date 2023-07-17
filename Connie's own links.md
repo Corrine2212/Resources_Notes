@@ -6,6 +6,8 @@
 
 - [Github](https://github.com/codeclan/g36_classnotes) - projects saved here
 
+- [Coreer](https://www.coreer.co/Corrine2212) -  
+
 - [Codepen](https://codepen.io/Corrine2212) - showcase HTML, CSS and JavaScript code snippets
 
 - [Hashnode](https://hashnode.com/@cokidoki) - blogging community for devs

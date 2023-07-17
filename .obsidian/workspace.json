@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Apps.md",
+                "file": "Connie's own links.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Apps.md",
+                "file": "Connie's own links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Apps.md",
+                "file": "Connie's own links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Apps.md"
+                "file": "Connie's own links.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
+    "Useful Apps.md",
     "01 HTML & CSS Resources.md",
     "Misc.md",
     "03 Java Resources.md",
@@ -173,7 +174,6 @@
     "Git & Github Resources.md",
     "Useful Github Repos.md",
     "Useful VSC Extensions.md",
-    "Useful Apps.md",
     "README.md",
     "React Resources.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
