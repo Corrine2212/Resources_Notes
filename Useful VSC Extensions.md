@@ -1,7 +1,19 @@
 # Useful VSC Extensions
 
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - 
 
-- [Codesnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [Codesnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - screenshots of code
 
-- 
+- [CSS-Percent](https://marketplace.visualstudio.com/items?itemName=morehardy.css-percent) - transform px to percent unit(vw, vh)
+
+- [Fast Arrow](https://marketplace.visualstudio.com/items?itemName=vinliao.fast-arrow)
+
+- [TabOut](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
+
+- [Surround with Tag](https://marketplace.visualstudio.com/items?itemName=BalduinLandolt.surround-with-tag)
+
+- [SCSS to CSS](https://marketplace.visualstudio.com/items?itemName=yutent.scss-to-css)
+
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+- [Live share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) OR []()
