@@ -2,25 +2,28 @@
 
 ## Design apps:   
 
-### [Colorslurp](https://colorslurp.com/) - a color palette and picker app
+### [Colorslurp](https://colorslurp.com/) - a color palette and picker app   
 Free and paid version  
 macOS and ios only
 
-### [Litur](https://litur.app/) - a color palette and picker app
+### [Litur](https://litur.app/) - a color palette and picker app    
 Paid   
 macOS and ios only
 
-### [Penpot](https://penpot.app/) - Figma and Adobe XD alternative
+### [Penpot](https://penpot.app/) - Figma and Adobe XD alternative   
 Free   
+
+### [Brandy](https://getbrandy.io/) - Keep brand assets right at your fingertips for quick use   
+Free
 
 
 ## Tools:
 
-### [Kap](https://getkap.co/) - open source screen recorder app 
+### [Kap](https://getkap.co/) - open source screen recorder app  
 Free   
 macOS only   
 
-### [Shottr](https://shottr.cc/) - screenshot app with more features 
+### [Shottr](https://shottr.cc/) - screenshot app with more features  
 Free and paid version  
 macOS only
 - text recognition
@@ -31,14 +34,15 @@ macOS only
 - pixelate areas of your screenshot
 
 ## Diagram:
-### [Draw.io](https://www.drawio.com/)
+
+### [Draw.io](https://www.drawio.com/) - great for UMD (class / object) diagrams
 Free  
 Desktop and browser app 
 
 
 ## Window management:
 
-### [Rectangle](https://rectangleapp.com/) - window management app
+### [Rectangle](https://rectangleapp.com/) - window management app   
 Free  
 macOS only
 - Move and resize windows in macOS using keyboard shortcuts or snap areas
@@ -46,12 +50,12 @@ macOS only
 
 ## Terminal:   
 
-### [iTerm2](https://iterm2.com/)- a replacement for Terminal
+### [iTerm2](https://iterm2.com/)- a replacement for Terminal   
 Free   
 macOS only
 
 
 ## Others:
-### [Openports](https://openports.app/) - List, browse, copy, terminate or kill open ports
+### [Openports](https://openports.app/) - List, browse, copy, terminate or kill open ports   
 Free
 macOS only
