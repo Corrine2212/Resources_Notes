@@ -17,6 +17,7 @@ Free
 Free   
 macOS and ios only
 
+-----------------
 
 ## Tools:
 
@@ -34,12 +35,15 @@ macOS only
 - scrolling screenshots
 - pixelate areas of your screenshot
 
+-----------------
+
 ## Diagram:
 
 ### [Draw.io](https://www.drawio.com/) - great for UMD (class / object) diagrams
 Free  
 Desktop and browser app 
 
+-----------------
 
 ## Window management:
 
@@ -48,6 +52,7 @@ Free
 macOS only
 - Move and resize windows in macOS using keyboard shortcuts or snap areas
 
+-----------------
 
 ## Terminal:   
 
@@ -55,8 +60,25 @@ macOS only
 Free   
 macOS only
 
+-----------------
+
+## Notetaking:
+
+### [Notion]() - wiki style notes, database
+Free and paid version   
+MacOs, ios, android, Windows
+
+### [Obisidian]() - markdown text editor
+Free and paid version   
+MacOs, ios, android, Windows
+
+-----------------
 
 ## Others:
+
 ### [Openports](https://openports.app/) - List, browse, copy, terminate or kill open ports   
 Free
 macOS only
+
+
+-----------------
