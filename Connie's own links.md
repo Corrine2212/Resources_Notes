@@ -4,8 +4,10 @@
 
 - [Linkedin](https://www.linkedin.com/in/corrine-sing-a27735b2/)
 
-- [Github](https://github.com/codeclan/g36_classnotes)
+- [Github](https://github.com/codeclan/g36_classnotes) - projects saved h
 
-- [Codepen](https://codepen.io/Corrine2212)
+- [Codepen](https://codepen.io/Corrine2212) - showcase HTML, CSS and JavaScript code snippets
 
-- [Replit](https://replit.com/@Cokidoki)
+- [Hashnode](https://hashnode.com/@cokidoki) - blogging community for devs
+
+- [Replit](https://replit.com/@Cokidoki) - an IDE, a code collaboration platform
