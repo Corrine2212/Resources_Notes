@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
+                "file": "Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
+                "file": "Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
+                "file": "Misc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md"
+                "file": "Misc.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
-    "03 Java Resources.md",
+    "React Resources.md",
+    "README.md",
     "Useful Github Repos.md",
+    "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
+    "03 Java Resources.md",
     "G36 Classnotes/Untitled.md",
     "G36 Classnotes/Wk 1",
     "G36 Classnotes",
@@ -159,7 +162,6 @@
     "Untitled.canvas",
     "Untitled Diagram.svg",
     "Git & Github Resources.md",
-    "README.md",
     "Connie's own links.md",
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "Courses.md",
@@ -168,7 +170,6 @@
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
-    "React Resources.md",
     "Misc.md",
     "Favourite Fonts.md",
     "images/BodoniModa.png",
@@ -185,7 +186,6 @@
     "images",
     "images/ReemKufi.png",
     "SHORTCUTS & COMMANDS",
-    "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
     "images/Spring screenshot.png",
     "2023-07-11.md",
     "Untitled 1.canvas",
