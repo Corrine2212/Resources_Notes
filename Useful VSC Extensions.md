@@ -1,6 +1,6 @@
 # Useful VSC Extensions
 
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - 
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) 
 
 - [Codesnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - screenshots of code
 
@@ -8,11 +8,11 @@
 
 - [Fast Arrow](https://marketplace.visualstudio.com/items?itemName=vinliao.fast-arrow)
 
-- [TabOut](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
+- [TabOut](https://marketplace.visualstudio.com/items?itemName=albert.TabOut) - press tab to move out of braces
 
 - [Surround with Tag](https://marketplace.visualstudio.com/items?itemName=BalduinLandolt.surround-with-tag)
 
-- [SCSS to CSS](https://marketplace.visualstudio.com/items?itemName=yutent.scss-to-css)
+- [SCSS to CSS](https://marketplace.visualstudio.com/items?itemName=yutent.scss-to-css) - converter
 
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -20,6 +20,6 @@
 
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
-- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) 
 
-- [Lorem Ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
+- [Lorem Ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) - text placeholder
