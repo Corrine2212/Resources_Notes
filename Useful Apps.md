@@ -10,6 +10,9 @@ macOS and ios only
 Paid   
 macOS and ios only
 
+### [Penpot](https://penpot.app/) - Figma and Adobe XD alternative
+Free   
+
 
 ## Tools:
 
@@ -27,9 +30,18 @@ macOS only
 - scrolling screenshots
 - pixelate areas of your screenshot
 
+### Diagram
 
 ## Window management:
 
 ### [Rectangle](https://rectangleapp.com/) - window management app
 Free  
+macOS only
+- Move and resize windows in macOS using keyboard shortcuts or snap areas
+
+
+## Terminal:   
+
+### [iTerm2](https://iterm2.com/)- a replacement for Terminal
+Free   
 macOS only
