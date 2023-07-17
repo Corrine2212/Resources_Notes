@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
+    "Misc.md",
     "README.md",
     "01 HTML & CSS Resources.md",
     "02 Javascript Resources.md",
@@ -171,7 +172,6 @@
     "Courses.md",
     "Favourite Fonts.md",
     "Git & Github Resources.md",
-    "Misc.md",
     "Useful Apps.md",
     "Useful Github Repos.md",
     "Useful VSC Extensions.md",
