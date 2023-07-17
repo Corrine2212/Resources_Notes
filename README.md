@@ -20,6 +20,13 @@ A place for useful resources and learning notes.
 
 - [Career Things](https://github.com/Corrine2212/Resources_Notes/blob/main/Career%20Things.md)
 
+- [Useful Apps](https://github.com/Corrine2212/Resources_Notes/blob/main/Useful%20Apps.md)
+
+- [Useful Github Repos](https://github.com/Corrine2212/Resources_Notes/blob/main/Useful%20Github%20Repos.md)
+
+- [Useful VSC Extensions](https://github.com/Corrine2212/Resources_Notes/blob/main/Useful%20VSC%20Extensions.md) - work in progress
+
+
 
 ### Project setup:  
 - [Setting up React JS App](https://github.com/Corrine2212/Resources_Notes/blob/main/Instructions%20for%20setting%20up%20React%20JS%20project.md)
