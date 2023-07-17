@@ -14,7 +14,8 @@ macOS and ios only
 Free   
 
 ### [Brandy](https://getbrandy.io/) - Keep brand assets right at your fingertips for quick use   
-Free
+Free   
+macOS and ios only
 
 
 ## Tools:
