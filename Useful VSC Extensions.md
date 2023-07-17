@@ -16,4 +16,10 @@
 
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
-- [Live share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) OR []()
+- [Live share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) OR [Live Server(Five Server)](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server)
+
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+- [Lorem Ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
