@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+                "file": "LANGUAGES/01 HTML & CSS Resources.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+                "file": "LANGUAGES/01 HTML & CSS Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+                "file": "LANGUAGES/01 HTML & CSS Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md"
+                "file": "LANGUAGES/01 HTML & CSS Resources.md"
               }
             }
           }
@@ -165,6 +165,7 @@
   },
   "active": "85351eecd7443a61",
   "lastOpenFiles": [
+    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "Excalidraw/Drawing 2023-07-18 15.06.49.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
@@ -191,7 +192,6 @@
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
-    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
     "().md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
