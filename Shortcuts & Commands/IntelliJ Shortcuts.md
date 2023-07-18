@@ -17,5 +17,5 @@
 |cycle through navigation top bar|command + up||
 
 
-### Other Resources:  
+### Other Resources:   
 - [Quick Editor Shortcuts](https://tomgregory.com/edit-code-faster-in-intellij-idea/)

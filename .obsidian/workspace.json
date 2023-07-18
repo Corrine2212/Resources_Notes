@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a82b8788925645e1",
+        "id": "386aabf355bc4355",
         "type": "tabs",
         "children": [
           {
-            "id": "20a84e09906d2ef1",
+            "id": "a10b5bfd16c8d923",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Github Repos.md",
+                "file": "Career Things.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85351eecd7443a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md",
+                "file": "Career Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md",
+                "file": "Career Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md"
+                "file": "Career Things.md"
               }
             }
           }
@@ -163,12 +150,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec8dce73aadfcddd",
+  "active": "a10b5bfd16c8d923",
   "lastOpenFiles": [
+    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
+    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
+    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
+    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+    "README.md",
+    "Useful Github Repos.md",
+    "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md",
     "FRAMEWORKS, LIBRARIES & PLATFORMS",
     "Misc.md",
     "LANGUAGES/01 HTML & CSS Resources.md",
-    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
     "Excalidraw/Drawing 2023-07-18 15.06.49.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
@@ -176,10 +169,8 @@
     "Excalidraw/Scripts",
     "Excalidraw/Drawing 2023-07-18 15.04.37.excalidraw.md",
     "Excalidraw",
-    "Useful Github Repos.md",
     "Useful Apps.md",
     "Useful Extensions.md",
-    "README.md",
     "LANGUAGES/03 Java Resources.md",
     "LANGUAGES",
     "LANGUAGES/02 Javascript Resources.md",
@@ -188,10 +179,6 @@
     "Courses.md",
     "Favourite Fonts.md",
     "Git & Github Resources.md",
-    "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md",
-    "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
-    "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
-    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
     "().md",
     "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",

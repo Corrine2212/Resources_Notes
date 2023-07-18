@@ -44,8 +44,7 @@
 
 ---------------
 
-### Kill Server Port Command:
-
+### Kill Server Port Command:   
 `lsof -P -i :<port number>`
 
 then... 

@@ -11,7 +11,7 @@ A place for useful resources and learning notes.
 
 
 ### Frontend Development:   
-- [React Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/React%20Resources.md) - Library
+- [React Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/FRAMEWORKS%2C%20LIBRARIES%20%26%20PLATFORMS/React%20Resources.md) - Library
 
 
 ### Backend Development:   
