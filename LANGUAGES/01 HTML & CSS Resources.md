@@ -31,7 +31,7 @@
 
 - [CSS Tricks](https://css-tricks.com/)
 
-- [CSS Snippets](https://www.30secondsofcode.org/css/p/1) or [](https://codemyui.com/tag/pure-css/page/2/)
+- [30 Secs of Code](https://www.30secondsofcode.org/css/p/1) or [Code My UI](https://codemyui.com/tag/pure-css/page/2/) - Code snippets
 
 - [CSS References](https://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important properties and info to learn CSS from the basics 
 
@@ -50,6 +50,10 @@
 - [SVG Animation Background](https://codepen.io/thanks2music/pen/VmJjaG)
 
 - [Gradient Generator](https://cssgradient.io/)
+
+- [Gradient Animator](https://www.gradient-animator.com/)
+
+- [Animated Gradient CSS with noise]()
 
 
 -------------------
@@ -99,7 +103,7 @@
 
 ### Text shadows:
 
--[Freefrontend text shadows](https://freefrontend.com/css-text-shadow-effects/)
+- [Freefrontend text shadows](https://freefrontend.com/css-text-shadow-effects/)
 
 
 ### Audio Elements:
