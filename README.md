@@ -16,10 +16,14 @@ A place for useful resources and learning notes.
 
 ### Frameworks:   
 ##### Backend:
-- Spring
+- Spring (Java)
+- Node.js (Javascript)
+- Express.js (Javascript)
+- Django / Jinja (Python)
+- Flask (Python)
 
 ##### Frontend:
-
+- 
 
 ---------
 
