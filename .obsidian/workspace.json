@@ -23,8 +23,12 @@
             "id": "85351eecd7443a61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md"
+              }
             }
           }
         ],
@@ -155,11 +163,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec8dce73aadfcddd",
+  "active": "85351eecd7443a61",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-07-18 15.06.49.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
-    "Excalidraw/Drawing 2023-07-18 15.06.49.excalidraw.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/Drawing 2023-07-18 15.04.37.excalidraw.md",
