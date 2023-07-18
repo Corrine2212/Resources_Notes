@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Resources.md",
+                "file": "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Resources.md",
+                "file": "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Resources.md",
+                "file": "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Resources.md"
+                "file": "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md"
               }
             }
           }
@@ -163,8 +163,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85351eecd7443a61",
+  "active": "ec8dce73aadfcddd",
   "lastOpenFiles": [
+    "FRAMEWORKS, LIBRARIES & PLATFORMS",
     "Misc.md",
     "LANGUAGES/01 HTML & CSS Resources.md",
     "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
@@ -180,7 +181,6 @@
     "Useful Extensions.md",
     "README.md",
     "LANGUAGES/03 Java Resources.md",
-    "Untitled",
     "LANGUAGES",
     "LANGUAGES/02 Javascript Resources.md",
     "Career Things.md",
@@ -188,7 +188,7 @@
     "Courses.md",
     "Favourite Fonts.md",
     "Git & Github Resources.md",
-    "React Resources.md",
+    "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
     "SHORTCUTS & COMMANDS/Markdown Syntax.md",
