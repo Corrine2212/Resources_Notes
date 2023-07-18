@@ -31,6 +31,8 @@
 
 - [CSS Tricks](https://css-tricks.com/)
 
+- [CSS Snippets](https://www.30secondsofcode.org/css/p/1) or [](https://codemyui.com/tag/pure-css/page/2/)
+
 - [CSS References](https://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important properties and info to learn CSS from the basics 
 
 -------------------
@@ -95,16 +97,20 @@
 
 -------------------
 
-### Audio Elements
+### Text shadows:
+
+-[Freefrontend text shadows](https://freefrontend.com/css-text-shadow-effects/)
+
+
+### Audio Elements:
 
 - [How to style audio elements](https://blog.shahednasser.com/how-to-style-an-audio-element/)
 
 -------------------
 
 ### Navbars:   
-- [Responsive Header Navbars](https://www.cssscript.com/header-navbar-templates/)
 
--
+- [Responsive Header Navbars](https://www.cssscript.com/header-navbar-templates/)
 
 -------------------
 
@@ -155,6 +161,8 @@
 ### Fun things:
 
 - [Codepen CSS Grid: Periodic Table](https://codepen.io/oliviale/pen/ZmvPPd)
+
+- [Blob effect examples](https://freefrontend.com/css-blob-effects/)
 
 
 -------------------
