@@ -127,9 +127,22 @@
 
 - [Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-8fb4ff-ebf1ff-ff8f94)
 
+- [Brand Palettes](https://brandpalettes.com/)
 
 -------------------
 
+### Shape Dividers:
+
+- [SVG Shape Divider](https://www.shapedivider.app/)
+
+
+-------------------
+
+### Icons:
+
+- [Fontawesome](https://fontawesome.com/)
+
+-------------------
 
 ### Typography:
 
@@ -178,6 +191,10 @@
 - [Even more blobs](https://frontendresource.com/css-blob-effects/)
 
 - [George Francis Blob](https://georgefrancis.dev/writing/build-a-smooth-animated-blob-with-svg-and-js/)
+
+- [Haikei](https://app.haikei.app/)
+
+- []()
 
 
 
