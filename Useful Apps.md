@@ -85,7 +85,8 @@ MacOs, ios, android, Windows
 Free
 macOS only
 
-### [Raycast]() - 
-
+### [Raycast](https://www.raycast.com/) -  Extendable launcher, spotlight replacement   
+Free and paid version
+macOS only
 
 -----------------

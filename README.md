@@ -3,11 +3,11 @@
 A place for useful resources and learning notes.
 
 ### Languages:   
-- [HTML & CSS Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/LANGUAGES/01%20HTML%20%26%20CSS%20Resources.md) - markup 
+- [HTML & CSS Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/LANGUAGES/01%20HTML%20%26%20CSS%20Resources.md) - Markup 
 
-- [Javascript Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/LANGUAGES/02%20Javascript%20Resources.md) - programming
+- [Javascript Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/LANGUAGES/02%20Javascript%20Resources.md) - Programming
 
-- [Java Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/LANGUAGES/03%20Java%20Resources.md) - programming
+- [Java Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/LANGUAGES/03%20Java%20Resources.md) - Programming
 
 
 ### Frontend Development:   
@@ -26,8 +26,8 @@ A place for useful resources and learning notes.
 - Mocha - JS test framework running on Node.js
 
 ### Devops:   
-- CircleCI - a continuous integration 
-- Amazon AWS
+- CircleCI - a continuous integration and continuous delivery platform
+- Amazon AWS - allows you to host applications
 
 ---------
 
