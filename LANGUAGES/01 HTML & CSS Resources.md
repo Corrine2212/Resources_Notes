@@ -55,6 +55,8 @@
 
 - [Animated Gradient CSS with noise](https://stackdiary.com/css-animated-gradient-background/)
 
+- [MeshGradient](https://meshgradient.com/?w=eyJzIjpbWy0wLjIzMSwtMC4xNzhdLFswLjc1NSwtMC44NjhdLFswLjMyMywwLjldLFswLjY5NSwwLjAwMV0sWy0wLjc1LDEuNzk5XSxbLTAuNTQ0LDAuNTg1XSxbMC42NjcsLTAuMTc5XSxbMC4wODIsMC4zOF1dLCJkIjpbWy0wLjg1OCwtMC43NDldLFswLjg1LC0wLjldLFswLjkxOCwwLjYxNF0sWy0wLjE5LDAuMjIyXSxbMC41NCwwLjg4OV0sWy0wLjIyMiwwLjI4Nl0sWy0wLjAwOCwtMC40Nl0sWy0wLjEyLDAuMTQ0XV0sInAiOjh9&c=eyJ0bCI6IiNiN2RiZjkiLCJ0ciI6IiNhYTRjZDkiLCJibCI6IiNmZmY5YmYiLCJiciI6IiNmOGEwOTcifQ%3D%3D)
+
 
 -------------------
 
