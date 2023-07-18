@@ -10,20 +10,24 @@ A place for useful resources and learning notes.
 - [Java Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/LANGUAGES/03%20Java%20Resources.md)
 
 
-### Library:   
-- [React Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/React%20Resources.md)
+### Frontend Development:   
+- [React Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/React%20Resources.md) - Library
 
 
-### Frameworks:   
-##### Backend:
+### Backend Development:   
 - Spring (Java)
 - Node.js (Javascript)
 - Express.js (Javascript)
-- Django / Jinja (Python)
+- Django / Jinja (Python) - framework
 - Flask (Python)
 
-##### Frontend:
-- 
+### Testing:   
+- Cypress
+- Mocha
+
+### Devops:   
+- CircleCI
+- Amazon AWS
 
 ---------
 
