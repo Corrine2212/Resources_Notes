@@ -24,7 +24,7 @@ A place for useful resources and learning notes.
 
 - [Useful Github Repos](https://github.com/Corrine2212/Resources_Notes/blob/main/Useful%20Github%20Repos.md)
 
-- [Useful VSC Extensions](https://github.com/Corrine2212/Resources_Notes/blob/main/Useful%20VSC%20Extensions.md) - work in progress
+- [Useful Extensions](https://github.com/Corrine2212/Resources_Notes/blob/main/Useful%20VSC%20Extensions.md)
 
 
 
