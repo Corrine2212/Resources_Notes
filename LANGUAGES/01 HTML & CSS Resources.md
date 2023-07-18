@@ -142,6 +142,8 @@
 
 - [Fontawesome](https://fontawesome.com/)
 
+- [Icones](https://icones.js.org/collection/all)
+
 -------------------
 
 ### Typography:
@@ -193,9 +195,6 @@
 - [George Francis Blob](https://georgefrancis.dev/writing/build-a-smooth-animated-blob-with-svg-and-js/)
 
 - [Haikei](https://app.haikei.app/)
-
-- []()
-
 
 
 -------------------
