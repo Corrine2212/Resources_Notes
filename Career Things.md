@@ -3,7 +3,8 @@
 ### Resume / CV:  
 - [ResumeWorded](https://resumeworded.com/)- Free instant feedback on resume and linkedin profile
 
-### Job S
+### Job Search Sites:   
+- [Otta](https://app.otta.com/)
 
 ### Codeclan (for Codeclan Students):  
 - [Codeclan Student Hub](https://codeclan.com/students/)

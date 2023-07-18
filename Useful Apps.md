@@ -89,4 +89,6 @@ macOS only
 Free and paid version
 macOS only
 
+### [Arc Browser]()
+
 -----------------
