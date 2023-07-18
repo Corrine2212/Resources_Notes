@@ -53,7 +53,7 @@
 
 - [Gradient Animator](https://www.gradient-animator.com/)
 
-- [Animated Gradient CSS with noise]()
+- [Animated Gradient CSS with noise](https://stackdiary.com/css-animated-gradient-background/)
 
 
 -------------------
@@ -167,6 +167,15 @@
 - [Codepen CSS Grid: Periodic Table](https://codepen.io/oliviale/pen/ZmvPPd)
 
 - [Blob effect examples](https://freefrontend.com/css-blob-effects/)
+
+- [Pure CSS blobs](https://toruskit.com/tools/blobz/#install)
+
+- [More blobs](https://css-tricks.com/blobs/)
+
+- [Even more blobs](https://frontendresource.com/css-blob-effects/)
+
+- [George Francis Blob](https://georgefrancis.dev/writing/build-a-smooth-animated-blob-with-svg-and-js/)
+
 
 
 -------------------
