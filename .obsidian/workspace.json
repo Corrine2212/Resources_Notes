@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85351eecd7443a61",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-18 15.06.49.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Github Repos.md",
+                "file": "Excalidraw/Drawing 2023-07-18 15.06.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Github Repos.md",
+                "file": "Excalidraw/Drawing 2023-07-18 15.06.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Github Repos.md"
+                "file": "Excalidraw/Drawing 2023-07-18 15.06.49.excalidraw.md"
               }
             }
           }
@@ -146,13 +157,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20a84e09906d2ef1",
+  "active": "85351eecd7443a61",
   "lastOpenFiles": [
-    "Useful Apps.md",
+    "Excalidraw/Drawing 2023-07-18 15.04.37.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-18 15.06.49.excalidraw.md",
+    "Excalidraw",
     "Useful Github Repos.md",
+    "Useful Apps.md",
     "Useful Extensions.md",
     "README.md",
     "LANGUAGES/01 HTML & CSS Resources.md",
@@ -193,7 +208,6 @@
     "images/ReemKufi.png",
     "SHORTCUTS & COMMANDS",
     "images/Spring screenshot.png",
-    "2023-07-11.md",
     "Untitled 1.canvas",
     "HTML & CSS"
   ]
