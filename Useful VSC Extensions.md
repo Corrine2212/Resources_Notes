@@ -1,4 +1,6 @@
-# Useful VSC Extensions
+# Useful Extensions
+
+## VSC Extensions:   
 
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) 
 
@@ -23,3 +25,8 @@
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) 
 
 - [Lorem Ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) - text placeholder
+
+
+## Chrome Extensions:
+
+- []()

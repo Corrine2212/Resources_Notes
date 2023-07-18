@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Useful VSC Extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Useful VSC Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Useful VSC Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Useful VSC Extensions.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "6bf5b52d461e69a1",
   "lastOpenFiles": [
-    "Misc.md",
+    "Useful Apps.md",
     "README.md",
+    "Misc.md",
     "01 HTML & CSS Resources.md",
     "02 Javascript Resources.md",
     "03 Java Resources.md",
@@ -172,7 +173,6 @@
     "Courses.md",
     "Favourite Fonts.md",
     "Git & Github Resources.md",
-    "Useful Apps.md",
     "Useful Github Repos.md",
     "Useful VSC Extensions.md",
     "React Resources.md",
