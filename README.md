@@ -2,13 +2,26 @@
 
 A place for useful resources and learning notes.
 
-- [HTML & CSS Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/01%20HTML%20%26%20CSS%20Resources.md)
+### Languages:   
+- [HTML & CSS Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/LANGUAGES/01%20HTML%20%26%20CSS%20Resources.md)
 
-- [Javascript Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/02%20Javascript%20Resources.md)
+- [Javascript Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/LANGUAGES/02%20Javascript%20Resources.md)
 
-- [Java Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/03%20Java%20Resources.md)
+- [Java Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/LANGUAGES/03%20Java%20Resources.md)
 
+
+### Library:   
 - [React Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/React%20Resources.md)
+
+
+### Frameworks:   
+##### Backend:
+- Spring
+
+##### Frontend:
+
+
+---------
 
 - [Git & Github Resources](https://github.com/Corrine2212/Resources_Notes/blob/main/Git%20%26%20Github%20Resources.md)
 
