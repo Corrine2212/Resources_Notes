@@ -87,6 +87,10 @@
 
 -------------------
 
+### Specificity:
+
+[Specifishity infographic](https://specifishity.com/)
+
 ### Buttons:
 
 - [Ready made buttons](https://getcssscan.com/css-buttons-examples)
