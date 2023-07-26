@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Apps.md",
+                "file": "LANGUAGES/01 HTML & CSS Resources.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Apps.md",
+                "file": "LANGUAGES/01 HTML & CSS Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Apps.md",
+                "file": "LANGUAGES/01 HTML & CSS Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Apps.md"
+                "file": "LANGUAGES/01 HTML & CSS Resources.md"
               }
             }
           }
@@ -152,16 +152,26 @@
   },
   "active": "a10b5bfd16c8d923",
   "lastOpenFiles": [
+    "LANGUAGES/02 Javascript Resources.md",
+    "LANGUAGES/03 Java Resources.md",
+    "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
+    "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
     "Career Things.md",
+    "Connie's own links.md",
+    "Courses.md",
+    "Favourite Fonts.md",
+    "Git & Github Resources.md",
+    "Misc.md",
+    "README.md",
+    "Useful Apps.md",
+    "Useful Extensions.md",
+    "Useful Github Repos.md",
+    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
+    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
     "SHORTCUTS & COMMANDS/VS Code Shortcuts.md",
     "SHORTCUTS & COMMANDS/Terminal Shortcuts.md",
-    "SHORTCUTS & COMMANDS/Markdown Syntax.md",
-    "SHORTCUTS & COMMANDS/IntelliJ Shortcuts.md",
-    "README.md",
-    "Useful Github Repos.md",
     "FRAMEWORKS, LIBRARIES & PLATFORMS/React Resources.md",
     "FRAMEWORKS, LIBRARIES & PLATFORMS",
-    "Misc.md",
     "LANGUAGES/01 HTML & CSS Resources.md",
     "Excalidraw/Drawing 2023-07-18 15.06.49.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
@@ -170,18 +180,8 @@
     "Excalidraw/Scripts",
     "Excalidraw/Drawing 2023-07-18 15.04.37.excalidraw.md",
     "Excalidraw",
-    "Useful Apps.md",
-    "Useful Extensions.md",
-    "LANGUAGES/03 Java Resources.md",
     "LANGUAGES",
-    "LANGUAGES/02 Javascript Resources.md",
-    "Connie's own links.md",
-    "Courses.md",
-    "Favourite Fonts.md",
-    "Git & Github Resources.md",
-    "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up Java & JS App.md",
     "().md",
-    "PROJECT GUIDES & INSTRUCTIONS/Instructions for setting up React JS project.md",
     "G36 Classnotes/Untitled.md",
     "G36 Classnotes/Wk 1",
     "G36 Classnotes",
