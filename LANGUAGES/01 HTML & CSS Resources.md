@@ -223,4 +223,4 @@
 
 ### Learning notes:
 
-- [My own notes](https://foil-bagpipe-84b.notion.site/HTML-CSS-0136f64cd9c7481d87920ef8a2c3770b?pvs=4)L-CSS-0136f64cd9c7481d87920ef8a2c3770b?pvs=4)
+- [My own notes](https://foil-bagpipe-84b.notion.site/HTML-CSS-0136f64cd9c7481d87920ef8a2c3770b?pvs=4)
