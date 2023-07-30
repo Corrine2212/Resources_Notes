@@ -80,6 +80,9 @@
 - [Grid Critters](https://gridcritters.com/) - paid
 
 
+- [CSS Speedrun](https://css-speedrun.netlify.app/)   
+- [CSS Selector Game](https://flukeout.github.io/)
+
 
 - [UI Design Patterns ](https://ui-patterns.com/patterns)
 
@@ -150,6 +153,14 @@
 
 -------------------
 
+### Transitions:   
+
+-[CSS Transitions](https://www.transition.style/)
+
+-[Loaders](https://uiball.com/loaders/)
+
+-------------------
+
 ### Typography:
 
 - [Archtype](https://archetypeapp.com/#)
@@ -163,6 +174,8 @@
 - [Fonts in the Wild](https://www.fontsinthewild.com/) - Type's used in real sites
 
 - [Favourite Fonts](https://github.com/Corrine2212/Resources_Notes/blob/main/Favourite%20Fonts.md)
+
+- [FreeFaces.Gallery](https://www.freefaces.gallery/)
 
 -------------------
 
@@ -200,9 +213,14 @@
 
 - [Haikei](https://app.haikei.app/)
 
+- [UI Elements](https://uiverse.io/)
+
+- [Animated SVG Icons](https://getloaf.io/)
+
+- [UseAnimations](https://useanimations.com/)
 
 -------------------
 
 ### Learning notes:
 
-- [My own notes](https://foil-bagpipe-84b.notion.site/HTML-CSS-0136f64cd9c7481d87920ef8a2c3770b?pvs=4)
+- [My own notes](https://foil-bagpipe-84b.notion.site/HTML-CSS-0136f64cd9c7481d87920ef8a2c3770b?pvs=4)L-CSS-0136f64cd9c7481d87920ef8a2c3770b?pvs=4)
