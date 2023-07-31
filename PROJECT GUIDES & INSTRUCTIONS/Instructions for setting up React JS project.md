@@ -76,11 +76,11 @@ npm install mongodb@3.5.7
 
 - Create seeds in seeds.js
     
-- Hook up the database i nserver.js
+- Hook up the database in server.js
     
-    - Remember app.use(express.json()) to allow the server to accesss the ‘body’
+    - Remember app.use(express.json()) to allow the server to access the ‘body’
     - Remember app.use(cors()) to avoid cors issues
-- npm run seeds → use MongoDB Compass to view the data from your seeds.
+    - npm run seeds → use MongoDB Compass to view the data from your seeds.
     
 - Create routes in helpers/create_router.js → use Insomnia to test if each of your routes are working
     
