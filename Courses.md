@@ -12,5 +12,9 @@
 
 - [Learn Javascript](https://scrimba.com/learn/learnjavascript) - Beginner course by Per Harald Borgen
 
+- [Javascript30](https://courses.wesbos.com/account/access/64bef53ce6f7bdd6273e4c0a/view/194837696) - Build 30 things in 30 days 
+
+- []()
+
 
 ### Backend:
