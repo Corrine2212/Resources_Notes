@@ -92,7 +92,7 @@
 
 ### Specificity:
 
-[Specifishity infographic](https://specifishity.com/)
+- [Specifishity infographic](https://specifishity.com/)
 
 ### Buttons:
 
