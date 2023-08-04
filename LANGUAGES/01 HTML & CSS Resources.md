@@ -157,9 +157,9 @@
 
 ### Transitions:   
 
--[CSS Transitions](https://www.transition.style/)
+- [CSS Transitions](https://www.transition.style/)
 
--[Loaders](https://uiball.com/loaders/)
+- [Loaders](https://uiball.com/loaders/)
 
 -------------------
 
