@@ -223,6 +223,12 @@
 
 - [UseAnimations](https://useanimations.com/)
 
+- [Charts.css](https://chartscss.org/)
+
+- [Animated Backgrounds](https://animatedbackgrounds.me/)
+
+- [Web Code Tools](https://webcode.tools/)
+
 -------------------
 
 ### Learning notes:
