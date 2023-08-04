@@ -12,6 +12,8 @@
 
 - [Github Cheat Sheet by Tim Green](https://github.com/tiimgreen/github-cheat-sheet) - Collection of cool hidden and not so hidden features of Git and GitHub
 
+- [Github Skills](https://github.com/skills)
+
 ---------------
 
 ### Github README:
