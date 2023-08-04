@@ -1,7 +1,8 @@
 # Career Things
 
 ### Resume / CV:  
-- [ResumeWorded](https://resumeworded.com/)- Free instant feedback on resume and linkedin profile
+- [ResumeWorded](https://resumeworded.com/) - Free instant feedback on resume and linkedin profile
+- [Resume Tips](https://monicalent.com/blog/2020/04/21/software-developer-resume-tips/) - by Monica Lent
 
 ### Job Search Sites:   
 - [Otta](https://app.otta.com/)
