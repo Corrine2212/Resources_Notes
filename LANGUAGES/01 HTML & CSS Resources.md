@@ -37,7 +37,8 @@
 
 -------------------
 
-### Boilerplates:
+### Boilerplates:   
+Any text that is frequently reused or repurposed to help set up projects faster.
 
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 
