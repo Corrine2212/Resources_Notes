@@ -62,7 +62,7 @@ A place for useful resources and learning notes.
 
 - [VS Code Shortcuts](https://github.com/Corrine2212/Resources_Notes/blob/main/Shortcuts%20%26%20Commands/VS%20Code%20Shortcuts.md) 
 
-- [Markdown Syntax]()
+- [Markdown Syntax](https://github.com/Corrine2212/Resources_Notes/blob/main/Shortcuts%20%26%20Commands/Markdown%20Syntax.md)
 
-- [Terminal Shortcuts]()
+- [Terminal Shortcuts](https://github.com/Corrine2212/Resources_Notes/blob/main/Shortcuts%20%26%20Commands/Terminal%20Shortcuts.md)
 
