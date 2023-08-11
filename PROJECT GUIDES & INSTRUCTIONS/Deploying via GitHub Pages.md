@@ -17,34 +17,34 @@
 
 **Step 2: Create your React app**
 - cd into the directory you want to work in. In terminal run the following command;
-	```bash
-	npx create-react-app portfolio
-	```
+```bash
+npx create-react-app portfolio
+```
    
 **Step 3: Install Github Pages as a Dev-Dependency**
 - Install gh-pages by cd-ing into your React app and running:
-	```bash
-	npm install gh-pages --save-dev
-	```
+```bash
+npm install gh-pages --save-dev
+```
 - This package will create a branch on GitHub called 'gh-pages'
 - This branch is just for deployment
 
 **Step 4: Update your package.json file**    
 - Add a homepage
-	```json
-	"homepage": "https://<username>.github.io/<repo-name>" 
-	```
+```json
+"homepage": "https://<username>.github.io/<repo-name>" 
+```
 
 - Add a predeploy
 	- In the scripts section, add a predeploy:
 ```json
-	"predeploy": "npm run build"
+"predeploy": "npm run build"
 ```
 
 - Add Deploy
 	- Also in the scripts section, add a deploy:
 ```json
-	"deploy": "gh-pages -d build"
+"deploy": "gh-pages -d build"
 ```
 
 **Step 5: Push to Github**

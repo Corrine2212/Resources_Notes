@@ -56,7 +56,7 @@ A place for useful resources and learning notes.
 
 - [Setting up full stack Java & JS App](https://github.com/Corrine2212/Resources_Notes/blob/main/PROJECT%20GUIDES%20%26%20INSTRUCTIONS/Instructions%20for%20setting%20up%20Java%20%26%20JS%20App.md) - work in progress
 
-- [Deploying via github pages]()
+- [Deploying via github pages](https://github.com/Corrine2212/Resources_Notes/blob/main/PROJECT%20GUIDES%20%26%20INSTRUCTIONS/Deploying%20via%20GitHub%20Pages.md)
 
 
 ### Keyboard shortcuts/commands & syntax:  
