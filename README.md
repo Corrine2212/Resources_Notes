@@ -57,10 +57,12 @@ A place for useful resources and learning notes.
 - [Setting up full stack Java & JS App](https://github.com/Corrine2212/Resources_Notes/blob/main/PROJECT%20GUIDES%20%26%20INSTRUCTIONS/Instructions%20for%20setting%20up%20Java%20%26%20JS%20App.md) - work in progress
 
 
-### Keyboard shortcuts:  
+### Keyboard shortcuts/commands & syntax:  
 - [IntelliJ Shortcuts](https://github.com/Corrine2212/Resources_Notes/blob/main/IntelliJ%20Shortcuts.md)
 
 - [VS Code Shortcuts](https://github.com/Corrine2212/Resources_Notes/blob/main/Shortcuts%20%26%20Commands/VS%20Code%20Shortcuts.md) 
 
+- [Markdown Syntax]()
 
+- [Terminal Shortcuts]()
 
