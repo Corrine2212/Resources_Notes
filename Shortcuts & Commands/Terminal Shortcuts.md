@@ -22,3 +22,10 @@
 - [A-Z Index of the **Apple macOS** command line](https://ss64.com/osx/)
 
 - [Terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet) 
+
+
+**Dock spacer**   
+defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="small-spacer-tile";}' && killall Dock
+
+**Mail - remove inline attachments**   
+defaults write com.apple.mail DisableInlineAttachmentViewing -bool no
