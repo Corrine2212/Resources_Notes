@@ -6,7 +6,11 @@
 
 - [Promises](https://www.sohamkamani.com/javascript/promises/)
 
+- npm
 
+- Functional Programming
+
+- 
 
 
 ### Learning notes:  
