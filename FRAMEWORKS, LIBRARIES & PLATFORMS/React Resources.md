@@ -15,3 +15,7 @@ React is an open source javascript based user interface library.
 - [React Hook Cheatsheets](https://blog.logrocket.com/react-hooks-cheat-sheet-solutions-common-problems/) - Best practices with examples
 
 
+- [React.js Cheatsheet](https://devhints.io/react)
+- [SheCodes Cheatsheet](http://cheatsheets.shecodes.io/react)
+
+
