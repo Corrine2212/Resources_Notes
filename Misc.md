@@ -47,3 +47,10 @@
 
 - [Iconifier / Favicon](https://iconifier.net/index.php?iconified=20230505213141_owenwow.png) - generates various file sizes suitable for icons
 
+- [Landing Page Resources](https://landingpage.fyi/)
+
+
+### ...
+
+- [Museum of Websites](https://www.kapwing.com/museum-of-websites) - Design inspo
+

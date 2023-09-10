@@ -10,7 +10,7 @@
 
 - Functional Programming
 
-- 
+- [Code to go](https://codetogo.io/) - Find up to date snippets for JS & React use cases
 
 
 ### Learning notes:  

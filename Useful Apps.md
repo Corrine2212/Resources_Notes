@@ -21,6 +21,10 @@ macOS and ios only
 Free and paid  
 macOS, ios, android and windows  
 
+### [Spline](https://app.spline.design/home)- 3d Design tool
+Free and paid
+
+
 
 -----------------
 
@@ -39,6 +43,10 @@ macOS only
 - use as screen ruler
 - scrolling screenshots
 - pixelate areas of your screenshot
+
+### [PixelSnap 2](https://getpixelsnap.com/) - Tool for measuring anything on your screen
+Paid
+macOS
 
 -----------------
 

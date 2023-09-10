@@ -35,6 +35,8 @@
 
 - [CSS References](https://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important properties and info to learn CSS from the basics 
 
+- [Lorem Ipsum & other tools](https://loremipsum.io/)
+
 -------------------
 
 ### Boilerplates:   
@@ -51,6 +53,8 @@ Any text that is frequently reused or repurposed to help set up projects faster.
 - [SVG Animation Background](https://codepen.io/thanks2music/pen/VmJjaG)
 
 - [Gradient Generator](https://cssgradient.io/)
+
+- [Web Gradients](https://webgradients.com/)
 
 - [Gradient Animator](https://www.gradient-animator.com/)
 
@@ -88,6 +92,8 @@ Any text that is frequently reused or repurposed to help set up projects faster.
 - [UI Design Patterns ](https://ui-patterns.com/patterns)
 
 - [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/) - Profile img generator
+
+- [UnusedCSS](https://unused-css.com/) - removes unused CSS
 
 -------------------
 
@@ -212,6 +218,8 @@ Any text that is frequently reused or repurposed to help set up projects faster.
 
 - [Pure CSS blobs](https://toruskit.com/tools/blobz/#install)
 
+- [Blobmaker](https://www.blobmaker.app/)
+
 - [More blobs](https://css-tricks.com/blobs/)
 
 - [Even more blobs](https://frontendresource.com/css-blob-effects/)
@@ -231,6 +239,10 @@ Any text that is frequently reused or repurposed to help set up projects faster.
 - [Animated Backgrounds](https://animatedbackgrounds.me/)
 
 - [Web Code Tools](https://webcode.tools/)
+
+- [Spline](https://app.spline.design/home) - 3d Design
+
+- [Animista](https://animista.net/play/basic) - Pre-made CSS animations
 
 -------------------
 
